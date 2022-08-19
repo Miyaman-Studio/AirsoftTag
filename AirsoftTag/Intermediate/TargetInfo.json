@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AirsoftTag",
+			"Path": "C:\\Users\\31640\\Documents\\Miyaman-Studio\\AirsoftTag\\AirsoftTag\\Source\\AirsoftTag.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AirsoftTagEditor",
+			"Path": "C:\\Users\\31640\\Documents\\Miyaman-Studio\\AirsoftTag\\AirsoftTag\\Source\\AirsoftTagEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
