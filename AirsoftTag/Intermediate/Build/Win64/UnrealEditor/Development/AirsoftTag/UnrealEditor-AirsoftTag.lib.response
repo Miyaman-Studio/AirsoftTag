@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AirsoftTag.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\Intermediate\Build\Win64\AirsoftTagEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\Intermediate\Build\Win64\UnrealEditor\Development\AirsoftTag\AirsoftTag.cpp.obj"
+"C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\Intermediate\Build\Win64\UnrealEditor\Development\AirsoftTag\AirsoftTagGameModeBase.cpp.obj"
+"C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\Intermediate\Build\Win64\UnrealEditor\Development\AirsoftTag\AirsoftTag.init.gen.cpp.obj"
+"C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\Intermediate\Build\Win64\UnrealEditor\Development\AirsoftTag\AirsoftTagGameModeBase.gen.cpp.obj"
+"C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\Intermediate\Build\Win64\UnrealEditor\Development\AirsoftTag\Default.rc2.res"
+/OUT:"C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\Intermediate\Build\Win64\UnrealEditor\Development\AirsoftTag\UnrealEditor-AirsoftTag.lib"

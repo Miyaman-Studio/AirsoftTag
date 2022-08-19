@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\31640\\documents\\miyaman-studio\\airsofttag\\airsofttag\\intermediate\\build\\win64\\unrealeditor\\inc\\airsofttag\\airsofttag.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\31640\\documents\\miyaman-studio\\airsofttag\\airsofttag\\intermediate\\build\\win64\\airsofttageditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\31640\\documents\\miyaman-studio\\airsofttag\\airsofttag\\intermediate\\build\\win64\\unrealeditor\\development\\airsofttag\\definitions.airsofttag.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
