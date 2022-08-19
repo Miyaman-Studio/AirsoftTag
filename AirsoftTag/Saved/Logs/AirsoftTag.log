@@ -1035,3 +1035,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.19-16.21.12:078][521]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.17% of total time (compiled  319 times, average 1.35 sec, max 5.33 sec, min 0.70 sec)
 [2022.08.19-16.21.12:078][521]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.05% of total time (compiled  301 times, average 1.39 sec, max 3.32 sec, min 0.40 sec)
 [2022.08.19-16.21.12:078][521]LogShaderCompilers: Display: ================================================
+[2022.08.19-16.30.08:364][267]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.08.19-16.35.24:474][224]LogD3D12RHI: Creating RTPSO with 107 shaders (0 cached, 107 new) took 2635.93 ms. Compile time 2618.92 ms, link time 16.46 ms.
+[2022.08.19-16.35.24:641][224]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 149.85 ms. Compile time 52.17 ms, link time 97.65 ms.
+[2022.08.19-16.35.24:818][224]LogD3D12RHI: Creating RTPSO with 9 shaders (0 cached, 9 new) took 327.33 ms. Compile time 321.43 ms, link time 5.86 ms.
+[2022.08.19-16.35.24:825][224]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.08.19-16.35.24:872][224]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.08.19-16.35.24:875][224]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.08.19-16.35.24:921][224]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.08.19-16.35.24:922][224]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.08.19-16.35.24:970][224]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.08.19-16.35.25:218][224]LogD3D12RHI: Creating RTPSO with 110 shaders (0 cached, 3 new) took 14.50 ms. Compile time 12.20 ms, link time 2.15 ms.
+[2022.08.19-16.35.25:225][224]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.08.19-16.35.25:271][224]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.08.19-16.37.05:413][598]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.19-16.37.05:421][598]LogSlate: Window 'Project Settings' being destroyed
