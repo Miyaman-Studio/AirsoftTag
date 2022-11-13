@@ -1,0 +1,926 @@
+﻿Log file open, 10/17/22 02:58:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=28456)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AirsoftTag
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\AirsoftTag.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.674] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i9-12900H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="0e3691484e0dc51a8567cab10331001e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.301998
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-9F68B43B41DE88080BFBAE9A47E2D68E
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin AudioGameplay
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin AudioGameplayVolume
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AnimationWarping
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AssetReferenceRestrictions
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin ReplayTracks
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin PerformanceMonitor
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GameFeatures
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ModularGameplay
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin DataRegistry
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin GameplayAbilities
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeoReferencing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin StructUtils
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin NetworkPrediction
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin MassEntity
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineFramework
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin WinDualShock
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/AnimationWarping/Content/' mounted to '/AnimationWarping/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeoReferencing/Content/' mounted to '/GeoReferencing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MassEntity/Content/' mounted to '/MassEntity/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.674] (), CPU: 12th Gen Intel(R) Core(TM) i9-12900H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.16-17.58.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.16-17.58.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.16-17.58.51:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.16-17.58.51:026][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.16-17.58.51:030][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.16-17.58.51:030][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.16-17.58.51:030][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.16-17.58.51:030][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.16-17.58.51:030][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.16-17.58.51:030][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.16-17.58.51:030][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.16-17.58.51:030][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.16-17.58.51:031][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.16-17.58.51:031][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.16-17.58.51:031][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.16-17.58.51:072][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.16-17.58.51:072][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.16-17.58.51:225][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.16-17.58.51:225][  0]LogD3D12RHI: Adapter has 6023MB of dedicated video memory, 0MB of dedicated system memory, and 8038MB of shared system memory, 1 output[s]
+[2022.10.16-17.58.51:283][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.16-17.58.51:283][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8038MB of shared system memory, 0 output[s]
+[2022.10.16-17.58.51:308][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.16-17.58.51:308][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8038MB of shared system memory, 0 output[s]
+[2022.10.16-17.58.51:356][  0]LogD3D12RHI: Found D3D12 adapter 3: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.16-17.58.51:356][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8038MB of shared system memory, 0 output[s]
+[2022.10.16-17.58.51:357][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.16-17.58.51:357][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.16-17.58.51:358][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.16-17.58.51:359][  0]LogHAL: Display: Platform has ~ 16 GB [16857182208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.16-17.58.51:360][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.16-17.58.51:360][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.16-17.58.51:360][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.16-17.58.51:361][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.16-17.58.51:361][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.16-17.58.51:362][  0]LogInit: Computer: OUALID-ASUS-LAP
+[2022.10.16-17.58.51:362][  0]LogInit: User: 31640
+[2022.10.16-17.58.51:362][  0]LogInit: CPU Page size=4096, Cores=14
+[2022.10.16-17.58.51:362][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.16-17.58.51:363][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.10.16-17.58.51:363][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.16-17.58.51:363][  0]LogMemory: Process Physical Memory: 296.39 MB used, 300.31 MB peak
+[2022.10.16-17.58.51:363][  0]LogMemory: Process Virtual Memory: 280.75 MB used, 280.75 MB peak
+[2022.10.16-17.58.51:363][  0]LogMemory: Physical Memory: 14569.33 MB used,  1506.93 MB free, 16076.26 MB total
+[2022.10.16-17.58.51:363][  0]LogMemory: Virtual Memory: 25692.59 MB used,  6459.93 MB free, 32152.52 MB total
+[2022.10.16-17.58.51:363][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.16-17.58.51:367][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.16-17.58.51:396][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.16-17.58.51:401][  0]LogInit: Using OS detected language (en-US).
+[2022.10.16-17.58.51:401][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.16-17.58.51:412][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.16-17.58.51:614][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.16-17.58.51:634][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.16-17.58.51:634][  0]LogWindowsTextInputMethodSystem:   - Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.10.16-17.58.51:634][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.16-17.58.51:634][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.10.16-17.58.51:635][  0]LogWindowsTextInputMethodSystem: Activated input method: Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.10.16-17.58.51:694][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.16-17.58.51:694][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.16-17.58.53:584][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.16-17.58.53:588][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.16-17.58.53:588][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.16-17.58.53:646][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.16-17.58.53:719][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.16-17.58.53:731][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.16-17.58.53:747][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.16-17.58.53:778][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.16-17.58.53:778][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.16-17.58.53:825][  0]LogD3D12RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.16-17.58.53:825][  0]LogWindows: Attached monitors:
+[2022.10.16-17.58.53:825][  0]LogWindows:     resolution: 1920x1200, work area: (0, 0) -> (1920, 1200), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.16-17.58.53:825][  0]LogWindows: Found 1 attached monitors.
+[2022.10.16-17.58.53:825][  0]LogWindows: EnumDisplayDevices:
+[2022.10.16-17.58.53:826][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.16-17.58.53:826][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.10.16-17.58.53:826][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.16-17.58.53:826][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.16-17.58.53:827][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.10.16-17.58.53:827][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.10.16-17.58.53:827][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.10.16-17.58.53:827][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.10.16-17.58.53:827][  0]LogWindows:    8. 'SuperDisplay Virtual Adapter' (P:0 D:0), name: '\\.\DISPLAY9'
+[2022.10.16-17.58.53:827][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.10.16-17.58.53:827][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.10.16-17.58.53:827][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.10.16-17.58.53:827][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.10.16-17.58.53:827][  0]LogRHI: Texture pool is 3310 MB (70% of 4729 MB)
+[2022.10.16-17.58.53:827][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.16-17.58.53:827][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.16-17.58.53:908][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.16-17.58.53:922][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/AirsoftTag.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/TurnkeyReport_0.log" -log="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/TurnkeyLog_0.log" -project="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/AirsoftTag.uproject"  -platform=all'
+[2022.10.16-17.58.53:923][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/AirsoftTag.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/TurnkeyReport_0.log" -log="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/TurnkeyLog_0.log" -project="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/AirsoftTag.uproject"  -platform=all" ]
+[2022.10.16-17.58.53:964][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.16-17.58.54:005][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.16-17.58.54:005][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.16-17.58.54:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.16-17.58.54:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.16-17.58.54:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.16-17.58.54:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.16-17.58.54:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.16-17.58.54:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.16-17.58.54:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.16-17.58.54:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.16-17.58.54:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.16-17.58.54:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.16-17.58.54:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.16-17.58.54:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.16-17.58.54:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.16-17.58.54:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.16-17.58.54:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.16-17.58.54:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.16-17.58.54:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.16-17.58.54:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.16-17.58.54:111][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.16-17.58.54:150][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.16-17.58.54:153][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.16-17.58.54:153][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.16-17.58.54:153][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.16-17.58.54:153][  0]LogTargetPlatformManager:   PCM
+[2022.10.16-17.58.54:156][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.16-17.58.54:156][  0]LogTargetPlatformManager:   BINKA
+[2022.10.16-17.58.54:156][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.16-17.58.54:156][  0]LogTargetPlatformManager:   OGG
+[2022.10.16-17.58.54:156][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.16-17.58.54:156][  0]LogTargetPlatformManager:   OPUS
+[2022.10.16-17.58.54:339][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.16-17.58.54:348][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.16-17.58.54:353][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.16-17.58.54:353][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.16-17.58.54:353][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.16-17.58.54:353][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.16-17.58.54:353][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.16-17.58.54:353][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.16-17.58.54:353][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.16-17.58.54:354][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2022.10.16-17.58.54:360][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.16-17.58.54:363][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.16-17.58.54:364][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.16-17.58.54:367][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.16-17.58.54:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.16-17.58.54:373][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.16-17.58.54:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.16-17.58.54:373][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.16-17.58.54:401][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.16-17.58.54:403][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.16-17.58.54:403][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.16-17.58.54:418][  0]LogDerivedDataCache: Speed tests for C:/Users/31640/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.10.16-17.58.54:419][  0]LogDerivedDataCache: Display: Performance to C:/Users/31640/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=127.92MBs, RandomWriteSpeed=145.47MBs. Assigned SpeedClass 'Local'
+[2022.10.16-17.58.54:421][  0]LogDerivedDataCache: Using Local data cache path C:/Users/31640/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.16-17.58.54:421][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.16-17.58.54:421][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.16-17.58.54:428][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.16-17.58.54:428][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.16-17.58.54:444][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/Shaders/WorkingDirectory/4476/).
+[2022.10.16-17.58.54:444][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/31640/AppData/Local/Temp/UnrealShaderWorkingDir/F212763D4FE6731105C7D281C3D890A6/'.
+[2022.10.16-17.58.54:445][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.16-17.58.54:445][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2022.10.16-17.58.58:714][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.16-17.58.58:714][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.16-17.58.58:731][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.16-17.58.58:805][  0]LogAssetRegistry: FAssetRegistry took 0.0157 seconds to start up
+[2022.10.16-17.58.58:817][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.16-17.58.59:190][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.16-17.58.59:201][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.16-17.58.59:394][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.16-17.58.59:394][  0]LogDeviceProfileManager: Active device profile: [000006CFDF2D8C00][000006CFB8725000 50] WindowsEditor
+[2022.10.16-17.58.59:394][  0]LogDeviceProfileManager: Profiles: [000006CFDF2D86C0][000006CFD276C800 50] Windows, [000006CFDF2D8C00][000006CFB8725000 50] WindowsEditor, [000006CFDF2D8340][000006CFDF610000 50] WindowsServer, [000006CFDF2D8180][000006CFDF615000 50] WindowsClient, [000006CFDF2D5E80][000006CFDF617800 50] IOS, [000006CFDF2D7A80][000006CFDF61A000 50] iPadAir2, [000006CFDF2D9140][000006CFD7990000 50] IPadPro, [000006CFDF2D94C0][000006CFDF61C800 50] iPadAir3, [000006CFDF2D3F00][000006CFDF630000 50] iPadAir4, [000006CFDF2D6E40][000006CFDF635000 50] iPadMini4, [000006CFDF2D7540][000006CFDF637800 50] iPadMini5, [000006CFDF2D8DC0][000006CFDF63A000 50] iPadMini6, [000006CFDF2DC080][000006CFDF6A0000 50] iPhone6S, [000006CFDF2DC400][000006CFDF6A2800 50] iPhone7, [000006CFDF2DC780][000006CFDF6A5000 50] iPodTouch7, [000006CFDF2D5080][000006CFDF6AA000 50] iPhone6SPlus, [000006CFDF2DBB40][000006CFDF6AC800 50] iPhone7Plus, [000006CFDF2D6AC0][000006CFDF612800 50] iPhoneSE, [000006CFDF2D8500][000006CFDF63C800 50] iPhone8, [000006CFDF2DB980][000006CFDF6A7800 50] iPhone8Plus, [000006CFDF2DCB00][000006CFDF640000 50] iPhoneX, [000006CFDF2DB7C0][000006CFDF645000 50] iPhoneXS, [000006CFDF2D7380][000006CFDF647800 50] iPhoneXSMax, [000006CFDF2DBEC0][000006CFDF64A000 50] iPhoneXR, [000006CFDF2D6740][000006CFDF64C800 50] iPhone11, [000006CFDF2DA480][000006CFDF632800 50] iPhone11Pro, [000006CFDF2D78C0][000006CFDF650000 50] iPhone11ProMax, [000006CFDF2DA9C0][000006CFDF655000 50] iPhoneSE2, [000006CFDF2D7FC0][000006CFDF657800 50] iPhone12Mini, [000006CFDF2DC5C0][000006CFDF65A000 50] iPhone12, [000006CFDF2D5240][000006CFDF65C800 50] iPhone12Pro, [000006CFDF2DB600][000006CFDF642800 50] iPhone12ProMax, [000006CFDF2D9680][000006CFDF670000 50] iPhone13Mini, [000006CFDF2DC240][000006CFDF675000 50] iPhone13, [000006CFDF2D5940][000006CFDF677800 50] iPhone13Pro, [000006CFDF2D9300][000006CFDF67A000 50] iPhone13ProMax, [000006CFDF2D6580][000006CFDF67C800 50] iPadPro105, [000006CFDF2DA800][000006CFDF652800 50] iPadPro129, [000006CFDF2D5780][000006CFDF680000 50] iPadPro97, [000006CFDF2D5B00][000006CFDF685000 50] iPadPro2_129, [000006CFDF2D8F80][000006CFDF687800 50] iPad5, [000006CFDF2D6200][000006CFDF68A000 50] iPad6, [000006CFDF2DB280][000006CFDF68C800 50] iPad7, [000006CFDF2D3B80][000006CFDF672800 50] iPad8, [000006CFDF2D71C0][000006CFDF690000 50] iPad9, [000006CFDF2D9840][000006CFDF695000 50] iPadPro11, [000006CFDF2D4D00][000006CFDF697800 50] iPadPro2_11, [000006CFDF2D6C80][000006CFDF69A000 50] iPadPro3_11, [000006CFDF2D4B40][000006CFDF69C800 50] iPadPro3_129, [000006CFDF2D5400][000006CFDF682800 50] iPadPro4_129, [000006CFDF2D9F40][000006CFDF6B0000 50] iPadPro5_129, [000006CFDF2D40C0][000006CFDF6B5000 50] AppleTV, [000006CFDF2DA100][000006CFDF6B7800 50] AppleTV4K, [000006CFDF2D9A00][000006CFDF6BA000 50] TVOS, [000006CFDF2DE540][000006CFDF692800 50] Mac, [000006CFDF2DE8C0][000006CFDF6BC800 50] MacEditor, [000006CFDF2DE700][000006CFDF6C0000 50] MacClient, [000006CFDF2DD3C0][000006CFDF6C5000 50] MacServer, [000006CFDF2DEC40][000006CFDF6CA000 50] Linux, [000006CFDF2DEFC0][000006CFDF6C7800 50] LinuxEditor, [000006CFDF2D6900][000006CFDF6CC800 50] LinuxArm64Editor, [000006CFDF2DE000][000006CFDF6B2800 50] LinuxArm64, [000006CFDF2DD740][000006CFDF6D0000 50] LinuxClient, [000006CFDF2DA2C0][000006CFDF6D5000 50] LinuxArm64Client, [000006CFDF2DEA80][000006CFDF6D7800 50] LinuxServer, [000006CFDF2D7C40][000006CFDF6DA000 50] LinuxArm64Server, [000006CFDF2DB440][000006CFDF6DC800 50] Android, [000006CFDF2DF180][000006CFDF6C2800 50] Android_Preview_OpenGL, [000006CFDF2DDE40][000006CFDF6E0000 50] Android_Preview_Vulkan, [000006CFDF2DD200][000006CFDF6E5000 50] Android_Low, [000006CFDF2D7700][000006CFDF6E7800 50] Android_Mid, [000006CFDF2DBD00][000006CFDF6EA000 50] Android_High, [000006CFDF2D7000][000006CFDF6EC800 50] Android_Default, [000006CFDF2D47C0][000006CFDF6D2800 50] Android_Adreno4xx, [000006CFDF2DDAC0][000006CFDF6F0000 50] Android_Adreno5xx_Low, [000006CFDF2DD040][000006CFDF6F5000 50] Android_Adreno5xx, [000006CFDF2D8A40][000006CFDF6F7800 50] Android_Adreno6xx, [000006CFDF2DC940][000006CFDF6FA000 50] Android_Adreno6xx_Vulkan, [000006CFDF2DCCC0][000006CFDF6FC800 50] Android_Adreno7xx, [000006CFDF2DD900][000006CFDF6E2800 50] Android_Adreno7xx_Vulkan, [000006CFDF2DF880][000006CFDF700000 50] Android_Mali_T6xx, [000006CFDF2D5CC0][000006CFDF705000 50] Android_Mali_T7xx, [000006CFDF2DF6C0][000006CFDF707800 50] Android_Mali_T8xx, [000006CFDF2D7E00][000006CFDF70A000 50] Android_Mali_G71, [000006CFDF2D63C0][000006CFDF70C800 50] Android_Mali_G72, [000006CFDF2D9BC0][000006CFDF6F2800 50] Android_Mali_G72_Vulkan, [000006CFDF2DB0C0][000006CFDF720000 50] Android_Mali_G76, [000006CFDF2D55C0][000006CFDF725000 50] Android_Mali_G76_Vulkan, [000006CFDF2D6040][000006CFDF727800 50] Android_Mali_G77, [000006CFDF740000][000006CFDF72A000 50] Android_Mali_G77_Vulkan, [000006CFDF742300][000006CFDF72C800 50] Android_Mali_G78, [000006CFDF742140][000006CFDF702800 50] Android_Mali_G78_Vulkan, [000006CFDF741F80][000006CFDF730000 50] Android_Mali_G710, [000006CFDF741DC0][000006CFDF735000 50] Android_Mali_G710_Vulkan, [000006CFDF741C00][000006CFDF737800 50] Android_Xclipse_920, [000006CFDF741A40][000006CFDF73A000 50] Android_Xclipse_920_Vulkan, [000006CFDF741880][000006CFDF73C800 50] Android_Vulkan_SM5, [000006CFDF7416C0][000006CFDF722800 50] Android_PowerVR_G6xxx, [000006CFDF741500][000006CFDF750000 50] Android_PowerVR_GT7xxx, [000006CFDF7424C0][000006CFDF755000 50] Android_PowerVR_GE8xxx, [000006CFDF740540][000006CFDF757800 50] Android_PowerVR_GM9xxx, [000006CFDF743100][000006CFDF75A000 50] Android_PowerVR_GM9xxx_Vulkan, [000006CFDF741180][000006CFDF75C800 50] Android_TegraK1, [000006CFDF742BC0][000006CFDF732800 50] Android_Unknown_Vulkan, [000006CFDF7432C0][000006CFDF760000 50] Oculus_Quest, [000006CFDF742680][000006CFDF765000 50] Oculus_Quest2, [000006CFDF742A00][000006CFDF767800 50] HoloLens, 
+[2022.10.16-17.58.59:394][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.16-17.58.59:407][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.16-17.58.59:519][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.16-17.58.59:739][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.16-17.58.59:739][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.16-17.58.59:739][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.16-17.58.59:739][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.16-17.58.59:740][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.16-17.58.59:787][  0]LogNetVersion: AirsoftTag 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3124286085)
+[2022.10.16-17.59.00:238][  0]LogSlate: Border
+[2022.10.16-17.59.00:238][  0]LogSlate: BreadcrumbButton
+[2022.10.16-17.59.00:238][  0]LogSlate: Default
+[2022.10.16-17.59.00:238][  0]LogSlate: Icons.Save
+[2022.10.16-17.59.00:238][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.16-17.59.00:238][  0]LogSlate: ListView
+[2022.10.16-17.59.00:238][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.16-17.59.00:238][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.16-17.59.00:238][  0]LogSlate: TableView.DarkRow
+[2022.10.16-17.59.00:238][  0]LogSlate: TableView.Row
+[2022.10.16-17.59.00:238][  0]LogSlate: TreeView
+[2022.10.16-17.59.00:775][  0]SourceControl: Source control is disabled
+[2022.10.16-17.59.00:862][  0]SourceControl: Source control is disabled
+[2022.10.16-17.59.00:862][  0]SourceControl: Source control is disabled
+[2022.10.16-17.59.01:106][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.16-17.59.01:106][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.10.16-17.59.01:107][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.16-17.59.01:626][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.16-17.59.01:634][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.16-17.59.02:036][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F67DAF1A4C56AD1632341EB2592C1661 | Instance: 7CE0ED2346A1B65A9DCA3A9B95DE055A (OUALID-ASUS-LAP-4476).
+[2022.10.16-17.59.02:192][  0]LogPython: Using Python 3.9.7
+[2022.10.16-17.59.02:965][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.10.16-17.59.03:450][  0]LogUProjectInfo: Found projects:
+[2022.10.16-17.59.04:132][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.16-17.59.04:158][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.16-17.59.04:158][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.16-17.59.04:430][  0]LogCollectionManager: Loaded 0 collections in 0.001937 seconds
+[2022.10.16-17.59.04:563][  0]LogFileCache: Scanning file cache for directory 'C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Collections/' took 0.00s
+[2022.10.16-17.59.04:563][  0]LogFileCache: Scanning file cache for directory 'C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Content/Developers/31640/Collections/' took 0.00s
+[2022.10.16-17.59.04:563][  0]LogFileCache: Scanning file cache for directory 'C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Content/Collections/' took 0.00s
+[2022.10.16-17.59.05:011][  0]LogEngine: Initializing Engine...
+[2022.10.16-17.59.05:025][  0]LogGameFeatures: Initializing game features subsystem
+[2022.10.16-17.59.05:035][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.16-17.59.05:659][  0]LogGameFeatures: Error: Asset manager settings do not include a rule for assets of type GameFeatureData, which is required for game feature plugins to function
+[2022.10.16-17.59.05:659][  0]LogGameFeatures: Scanning for built-in game feature plugins
+[2022.10.16-17.59.05:680][  0]LoadErrors: Error: Asset Manager settings do not include an entry for assets of type GameFeatureData, which is required for game feature plugins to function. Add entry to PrimaryAssetTypesToScan?
+[2022.10.16-17.59.05:682][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.16-17.59.05:690][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.16-17.59.05:721][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.16-17.59.05:772][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.16-17.59.05:794][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.16-17.59.05:814][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.16-17.59.05:819][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.16-17.59.05:819][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.16-17.59.05:823][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.16-17.59.05:823][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.16-17.59.05:824][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.16-17.59.05:824][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.16-17.59.05:824][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.16-17.59.05:824][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.16-17.59.05:824][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.16-17.59.05:824][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.16-17.59.05:824][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.16-17.59.05:825][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.16-17.59.05:828][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.16-17.59.05:828][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.16-17.59.05:828][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.16-17.59.05:838][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.16-17.59.05:874][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.16-17.59.05:876][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.16-17.59.05:891][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.16-17.59.05:892][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.16-17.59.05:895][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.16-17.59.05:895][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.16-17.59.05:897][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.16-17.59.05:897][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.16-17.59.05:897][  0]LogInit: FAudioDevice initialized.
+[2022.10.16-17.59.05:898][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.16-17.59.05:899][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.16-17.59.05:900][  0]LogInit: Texture streaming: Enabled
+[2022.10.16-17.59.05:932][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.16-17.59.05:940][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.16-17.59.05:966][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.16-17.59.05:976][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.16-17.59.05:976][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: AirsoftTagEditor Win64 Development
+[2022.10.16-17.59.07:009][  0]LogLiveCoding: Display: First instance in process group "UE_AirsoftTag_0x69efdf99", spawning console
+[2022.10.16-17.59.07:009][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.16-17.59.07:009][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.16-17.59.07:034][  0]LogInit: Transaction tracking system initialized
+[2022.10.16-17.59.07:138][  0]BlueprintLog: New page: Editor Load
+[2022.10.16-17.59.07:388][  0]LocalizationService: Localization service is disabled
+[2022.10.16-17.59.07:450][  0]TimingProfiler: Initialize
+[2022.10.16-17.59.07:450][  0]TimingProfiler: OnSessionChanged
+[2022.10.16-17.59.07:451][  0]LoadingProfiler: Initialize
+[2022.10.16-17.59.07:451][  0]LoadingProfiler: OnSessionChanged
+[2022.10.16-17.59.07:452][  0]NetworkingProfiler: Initialize
+[2022.10.16-17.59.07:454][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.16-17.59.07:454][  0]MemoryProfiler: Initialize
+[2022.10.16-17.59.07:454][  0]MemoryProfiler: OnSessionChanged
+[2022.10.16-17.59.08:575][  0]LogFileCache: Scanning file cache for directory 'C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Content/' took 0.01s
+[2022.10.16-17.59.08:575][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.16-17.59.08:709][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.16-17.59.08:718][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.074
+[2022.10.16-17.59.08:721][  0]Cmd: MAP LOAD FILE="../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.16-17.59.08:727][  0]LightingResults: New page: Lighting Build
+[2022.10.16-17.59.08:742][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.16-17.59.08:746][  0]MassEntity: New page: MassEntity
+[2022.10.16-17.59.08:748][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.16-17.59.08:755][  0]MapCheck: New page: Map Check
+[2022.10.16-17.59.08:755][  0]LightingResults: New page: Lighting Build
+[2022.10.16-17.59.08:784][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.16-17.59.08:816][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.16-17.59.09:400][  0]LogLinker: Warning: [AssetLog] C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\Content\Characters\Base\Heroes\Mannequin\Materials\M_Mannequin.uasset: Failed to load '/Game/Characters/PhysicsMaterials/PM_Character': Can't find file.
+[2022.10.16-17.59.09:400][  0]LoadErrors: Failed to load /Game/Characters/Base/Heroes/Mannequin/Meshes/SKM_Manny.SKM_Manny Referenced by CharacterMesh0
+[2022.10.16-17.59.09:400][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Characters/PhysicsMaterials/PM_Character'
+[2022.10.16-17.59.11:965][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.16-17.59.11:976][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.16-17.59.11:976][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.16-17.59.11:987][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.16-17.59.11:988][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.16-17.59.12:704][  0]LogWorldPartition: Display: WorldPartition initialize took 716 ms
+[2022.10.16-17.59.13:033][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.16-17.59.13:176][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.16-17.59.13:180][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.16-17.59.13:182][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.977ms to complete.
+[2022.10.16-17.59.13:182][  0]LogFileHelpers: Loading map 'Untitled' took 4.463
+[2022.10.16-17.59.13:247][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.602
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: ================================================
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.16-17.59.13:248][  0]LogShaderCompilers: Display: ================================================
+[2022.10.16-17.59.13:413][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.16-17.59.13:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.16-17.59.13:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.16-17.59.13:428][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.16-17.59.13:713][  0]LogSlate: Took 0.005514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.16-17.59.13:729][  0]LogSlate: Took 0.004626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.16-17.59.13:735][  0]LogSlate: Took 0.005068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.16-17.59.13:752][  0]LogViewport: Scene viewport resized to 1526x1062, mode Windowed.
+[2022.10.16-17.59.14:280][  0]LogD3D12RHI: Creating RTPSO with 107 shaders (0 cached, 107 new) took 284.32 ms. Compile time 182.56 ms, link time 100.71 ms.
+[2022.10.16-17.59.14:394][  0]LogD3D12RHI: Creating RTPSO with 9 shaders (0 cached, 9 new) took 38.56 ms. Compile time 26.67 ms, link time 11.85 ms.
+[2022.10.16-17.59.14:494][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 139.83 ms. Compile time 11.39 ms, link time 128.40 ms.
+[2022.10.16-17.59.14:550][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.10.16-17.59.14:572][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.10.16-17.59.14:574][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.10.16-17.59.14:584][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.10.16-17.59.14:584][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.10.16-17.59.14:595][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.10.16-17.59.14:993][  0]LogStall: Startup...
+[2022.10.16-17.59.14:994][  0]LogStall: Startup complete.
+[2022.10.16-17.59.15:044][  0]LogLoad: (Engine Initialization) Total time: 26.40 seconds
+[2022.10.16-17.59.15:044][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.16-17.59.15:142][  0]LogAssetRegistry: Asset discovery search completed in 16.3407 seconds
+[2022.10.16-17.59.15:157][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000234 seconds (updated 0 objects)
+[2022.10.16-17.59.15:218][  0]LogNiagara: Compiling System NiagaraSystem /Game/Characters/Yuan/VFX/Fake_Specials/Kiai_Blast/NewNiagaraSystem.NewNiagaraSystem took 3.527233 sec, no shader worker used.
+[2022.10.16-17.59.15:383][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.16-17.59.15:814][  1]LogNiagara: Compiling System NiagaraSystem /Game/Weapon/Common/VFX/Airsoft_Hit.Airsoft_Hit took 3.949996 sec, no shader worker used.
+[2022.10.16-17.59.15:819][  1]LogNiagara: Compiling System NiagaraSystem /Game/Weapon/Common/VFX/Weapon_Airsoft.Weapon_Airsoft took 3.916878 sec, no shader worker used.
+[2022.10.16-17.59.16:468][  3]LogSlate: Took 0.004198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.16-17.59.22:470][ 21]LogSlate: Window 'Message Log' being destroyed
+[2022.10.16-17.59.22:479][ 21]LogSlate: Window 'Message Log' being destroyed
+[2022.10.16-17.59.22:581][ 25]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.10.16-17.59.22:594][ 25]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.10.16-17.59.23:528][ 60]LogWindowsTextInputMethodSystem: Activated input method: Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.10.16-17.59.23:537][ 60]LogSlate: Took 0.004731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.16-17.59.23:571][ 60]LogSlate: Took 0.005392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.16-17.59.28:438][322]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.16-17.59.28:445][322]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.16-17.59.28:454][323]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.16-17.59.30:015][414]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.10.16-17.59.30:016][414]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.16-17.59.35:510][590]LogSlate: Window 'Message' being destroyed
+[2022.10.16-17.59.35:522][590]Message dialog closed, result: Yes, title: Message, text: The following assets are referenced by one or more Class Default Objects: 
+
+Untitled (project settings soft reference)
+
+Continuing with the rename may require changes to fix references in code or project settings. Assets could otherwise be missing in cooked/packaged builds. Do you wish to continue?
+[2022.10.16-17.59.36:036][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/9/VB/ZXNSO2RO8XQA2W1GDEQOME) ...
+[2022.10.16-17.59.36:062][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/9/VB/ZXNSO2RO8XQA2W1GDEQOME) ...
+[2022.10.16-17.59.36:128][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/0/I8/QIPAINZ48BR2IVXZM2KQDA) ...
+[2022.10.16-17.59.36:157][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/B/VW/XOHZHECZ14U3FNY1U6R1ZM) ...
+[2022.10.16-17.59.36:188][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/A/OV/C15V91ZAOM7RH67JXL69X9) ...
+[2022.10.16-17.59.36:215][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/A/OV/C15V91ZAOM7RH67JXL69X9) ...
+[2022.10.16-17.59.36:252][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/B/DX/K47QFKX9MQ8FHKLZCA0Z2Q) ...
+[2022.10.16-17.59.36:278][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/B/DX/K47QFKX9MQ8FHKLZCA0Z2Q) ...
+[2022.10.16-17.59.36:326][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/B/DX/K47QFKX9MQ8FHKLZCA0Z2Q) ...
+[2022.10.16-17.59.36:379][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/B/DX/K47QFKX9MQ8FHKLZCA0Z2Q) ...
+[2022.10.16-17.59.36:422][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/B/DX/K47QFKX9MQ8FHKLZCA0Z2Q) ...
+[2022.10.16-17.59.36:452][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/B/JG/M1J2GAUVAWAK6X4D2LA8R3) ...
+[2022.10.16-17.59.36:499][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/5/FP/0VNKCI5C8ATFRYHQVI4G73) ...
+[2022.10.16-17.59.36:521][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/5/FP/0VNKCI5C8ATFRYHQVI4G73) ...
+[2022.10.16-17.59.36:541][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/5/FP/0VNKCI5C8ATFRYHQVI4G73) ...
+[2022.10.16-17.59.36:565][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/5/FP/0VNKCI5C8ATFRYHQVI4G73) ...
+[2022.10.16-17.59.36:588][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/5/FP/0VNKCI5C8ATFRYHQVI4G73) ...
+[2022.10.16-17.59.36:609][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/5/FP/0VNKCI5C8ATFRYHQVI4G73) ...
+[2022.10.16-17.59.36:639][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/0D/TAKBFG929YYLPZMFIO449E) ...
+[2022.10.16-17.59.36:661][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/0D/TAKBFG929YYLPZMFIO449E) ...
+[2022.10.16-17.59.36:693][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/7/CG/T8RS5YJNXPB1QRGLNE5SD0) ...
+[2022.10.16-17.59.36:711][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/7/CG/T8RS5YJNXPB1QRGLNE5SD0) ...
+[2022.10.16-17.59.36:741][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/3/08/JDYQLPZLOT9PFCFB6EUEV4) ...
+[2022.10.16-17.59.36:762][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/3/08/JDYQLPZLOT9PFCFB6EUEV4) ...
+[2022.10.16-17.59.36:784][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/3/08/JDYQLPZLOT9PFCFB6EUEV4) ...
+[2022.10.16-17.59.36:808][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/3/08/JDYQLPZLOT9PFCFB6EUEV4) ...
+[2022.10.16-17.59.36:830][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/3/08/JDYQLPZLOT9PFCFB6EUEV4) ...
+[2022.10.16-17.59.36:854][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/3/08/JDYQLPZLOT9PFCFB6EUEV4) ...
+[2022.10.16-17.59.36:904][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/B/OG/A2C0TEF9WTEAH2DCGZEFWK) ...
+[2022.10.16-17.59.36:935][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/7/EJ/O7SOJWQ0T6JRG7B0TDQ4F0) ...
+[2022.10.16-17.59.36:972][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/E/2D/LVIEO6M0UHQ9CH173791IZ) ...
+[2022.10.16-17.59.36:993][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/E/2D/LVIEO6M0UHQ9CH173791IZ) ...
+[2022.10.16-17.59.37:026][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/1/XE/UGCWEED0TWMMY4OJ8WLVN3) ...
+[2022.10.16-17.59.37:065][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/7/44/23OMUIV61NW2MS7XZ6NLDY) ...
+[2022.10.16-17.59.37:086][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/7/44/23OMUIV61NW2MS7XZ6NLDY) ...
+[2022.10.16-17.59.37:117][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/W0/A62S68Y17XJAJJIGCTXOHL) ...
+[2022.10.16-17.59.37:151][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/8/QY/OFZGIWV9QDLYHRBQXS5PBY) ...
+[2022.10.16-17.59.37:171][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/8/QY/OFZGIWV9QDLYHRBQXS5PBY) ...
+[2022.10.16-17.59.37:212][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/J4/WM79C0FXWFYUNVRM3I4R7S) ...
+[2022.10.16-17.59.37:233][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/J4/WM79C0FXWFYUNVRM3I4R7S) ...
+[2022.10.16-17.59.37:261][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/J4/WM79C0FXWFYUNVRM3I4R7S) ...
+[2022.10.16-17.59.37:281][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/J4/WM79C0FXWFYUNVRM3I4R7S) ...
+[2022.10.16-17.59.37:302][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/J4/WM79C0FXWFYUNVRM3I4R7S) ...
+[2022.10.16-17.59.37:325][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/J4/WM79C0FXWFYUNVRM3I4R7S) ...
+[2022.10.16-17.59.37:346][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/J4/WM79C0FXWFYUNVRM3I4R7S) ...
+[2022.10.16-17.59.37:393][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/4/I7/RSF5N6FVT9RIOJ3XGDCPGW) ...
+[2022.10.16-17.59.37:426][590]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/Untitled/7/DN/BH3S5N5QB1AVEAO2Y58U23) ...
+[2022.10.16-17.59.48:346][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_000000001344ec12 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/7/DN/BH3S5N5QB1AVEAO2Y58U23.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000adcdef81 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/4/I7/RSF5N6FVT9RIOJ3XGDCPGW.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_000000004e144344 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/4/J4/WM79C0FXWFYUNVRM3I4R7S.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_0000000083c582a7 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/8/QY/OFZGIWV9QDLYHRBQXS5PBY.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000837d3c27 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/4/W0/A62S68Y17XJAJJIGCTXOHL.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000c6baa641 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/7/44/23OMUIV61NW2MS7XZ6NLDY.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/1/XE/UGCWEED0TWMMY4OJ8WLVN3.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000dea15624 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/E/2D/LVIEO6M0UHQ9CH173791IZ.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000dfad0108 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/7/EJ/O7SOJWQ0T6JRG7B0TDQ4F0.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/B/OG/A2C0TEF9WTEAH2DCGZEFWK.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000d190b65e is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/3/08/JDYQLPZLOT9PFCFB6EUEV4.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_000000002e9978b4 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/7/CG/T8RS5YJNXPB1QRGLNE5SD0.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_0000000010d5f002 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/4/0D/TAKBFG929YYLPZMFIO449E.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_000000006f064fc3 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/5/FP/0VNKCI5C8ATFRYHQVI4G73.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/B/JG/M1J2GAUVAWAK6X4D2LA8R3.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000596e8a41 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/B/DX/K47QFKX9MQ8FHKLZCA0Z2Q.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000d560b8ee is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/A/OV/C15V91ZAOM7RH67JXL69X9.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000923d253d is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/B/VW/XOHZHECZ14U3FNY1U6R1ZM.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_0000000053252892 is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/0/I8/QIPAINZ48BR2IVXZM2KQDA.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/A/S4/Y2RCHCP9VXI3WHL929V732.PackageMetaData in its package
+[2022.10.16-17.59.48:349][590]LogWorldPartition: Warning: Actor /Game/Maps/Untitled.Untitled:PersistentLevel.HLOD0_Instancing_00000000d580238e is unreachable without properly detaching object /Game/__ExternalActors__/Untitled/9/VB/ZXNSO2RO8XQA2W1GDEQOME.PackageMetaData in its package
+[2022.10.16-17.59.48:494][590]LogUObjectHash: Compacting FUObjectHashTables data took  12.37ms
+[2022.10.16-17.59.48:536][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.10.16-17.59.48:547][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.10.16-17.59.51:176][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalObjects__/Untitled/1/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/6/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/2/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalObjects__/Untitled/A/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalObjects__/Untitled/B/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/6/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalObjects__/Untitled/4/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/C/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/6/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/6/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/6/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/D/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/6/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalObjects__/Untitled/8/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/C/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/C/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/2/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/C/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/2/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/C/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: Error: warning: could not open directory 'AirsoftTag/Content/__ExternalActors__/Untitled/C/': No such file or directory
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/0/0M/YYS5HQCAGJEPQIH7U39CO5.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/2/DL/C291AC3HSWXLVID26PYFD7.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/5/X7/AUCER5FML8Z39IUIKIZ4MJ.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/7/C0/Y23PXJCVYGPKJ6MPAV7YZL.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN.uasset'
+[2022.10.16-17.59.51:177][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/A/1Q/MJ7XRPC9N6Z56XIA3BNTIS.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/B/DF/O13V2MYPO59F6CSL628FMQ.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/B/HT/KOSM8Z4QMBU7V5CVPCVW7G.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/B/M9/DIEN4SP68O2KXKGJDUXLKO.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/B/PW/X2ORSXT0IYMH9NA86E5NXC.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/PS/ZAI7DYD3C34TCX0CUWK6B4.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/6/BW/NMHSQ8QL73RR42IVOYYGMM.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/7/2F/L008R2BZ0EJ2TED1RDKBY7.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/C/AN/MOBK191RH6CUPYYIECM0SI.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM.uasset'
+[2022.10.16-17.59.51:178][590]SourceControl: rm 'AirsoftTag/Content/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG.uasset'
