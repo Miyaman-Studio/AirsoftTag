@@ -1,0 +1,15 @@
+2022/11/12-19:25:12.014 888 Reusing MANIFEST C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/12-19:25:12.014 888 Recovering log #14
+2022/11/12-19:25:12.014 888 Reusing old log C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000014.log 
+2022/11/12-19:32:54.329 2d54 Level-0 table #19: started
+2022/11/12-19:32:54.336 2d54 Level-0 table #19: 9501 bytes OK
+2022/11/12-19:32:54.337 2d54 Delete type=0 #14
+2022/11/12-19:32:54.338 2d54 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/11/12-19:32:54.338 2d54 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 502 : 1
+2022/11/12-19:32:54.338 2d54 Compacting 1@1 + 1@2 files
+2022/11/12-19:32:54.345 2d54 Generated table #20@1: 83 keys, 3494 bytes
+2022/11/12-19:32:54.345 2d54 Compacted 1@1 + 1@2 files => 3494 bytes
+2022/11/12-19:32:54.346 2d54 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/12-19:32:54.346 2d54 Delete type=2 #16
+2022/11/12-19:32:54.346 2d54 Delete type=2 #19
+2022/11/12-19:32:54.346 2d54 Manual compaction at level-1 from '\x00\x05\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 502 : 1 .. (end); will stop at (end)

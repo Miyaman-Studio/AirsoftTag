@@ -1,0 +1,1277 @@
+﻿Log file open, 09/26/22 06:15:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=25088)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AirsoftTag
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\31640\Documents\Miyaman-Studio\AirsoftTag\AirsoftTag\AirsoftTag.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.978] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i9-12900H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="0e3691484e0dc51a8567cab10331001e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.528310
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-2BDFD6AF41305A6168493B98C0750846
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.978] (), CPU: 12th Gen Intel(R) Core(TM) i9-12900H, GPU: NVIDIA GeForce RTX 3060 Laptop GPU
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.25-21.15.14:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.25-21.15.14:272][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.25-21.15.14:272][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.25-21.15.14:272][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.25-21.15.14:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.25-21.15.14:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.25-21.15.14:273][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.25-21.15.14:280][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.25-21.15.14:280][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.25-21.15.14:280][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.25-21.15.14:280][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.25-21.15.14:280][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.25-21.15.14:280][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.25-21.15.14:280][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.25-21.15.14:280][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.25-21.15.14:281][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.25-21.15.14:281][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.25-21.15.14:281][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.25-21.15.14:349][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.25-21.15.14:349][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.25-21.15.14:560][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.25-21.15.14:560][  0]LogD3D12RHI: Adapter has 6023MB of dedicated video memory, 0MB of dedicated system memory, and 8038MB of shared system memory, 1 output[s]
+[2022.09.25-21.15.15:188][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.25-21.15.15:188][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8038MB of shared system memory, 0 output[s]
+[2022.09.25-21.15.15:202][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.25-21.15.15:202][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8038MB of shared system memory, 0 output[s]
+[2022.09.25-21.15.15:268][  0]LogD3D12RHI: Found D3D12 adapter 3: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.25-21.15.15:268][  0]LogD3D12RHI: Adapter has 6023MB of dedicated video memory, 0MB of dedicated system memory, and 8038MB of shared system memory, 0 output[s]
+[2022.09.25-21.15.15:268][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.25-21.15.15:308][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.25-21.15.15:308][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.25-21.15.15:309][  0]LogHAL: Display: Platform has ~ 16 GB [16857182208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.25-21.15.15:309][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.25-21.15.15:309][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.25-21.15.15:309][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.25-21.15.15:310][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.25-21.15.15:310][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.25-21.15.15:311][  0]LogInit: Computer: OUALID-ASUS-LAP
+[2022.09.25-21.15.15:311][  0]LogInit: User: 31640
+[2022.09.25-21.15.15:311][  0]LogInit: CPU Page size=4096, Cores=14
+[2022.09.25-21.15.15:311][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.25-21.15.15:311][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.09.25-21.15.15:311][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.25-21.15.15:311][  0]LogMemory: Process Physical Memory: 298.34 MB used, 306.93 MB peak
+[2022.09.25-21.15.15:311][  0]LogMemory: Process Virtual Memory: 281.43 MB used, 281.43 MB peak
+[2022.09.25-21.15.15:311][  0]LogMemory: Physical Memory: 7595.09 MB used,  8481.18 MB free, 16076.26 MB total
+[2022.09.25-21.15.15:311][  0]LogMemory: Virtual Memory: 10220.16 MB used,  15228.11 MB free, 25448.27 MB total
+[2022.09.25-21.15.15:311][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.25-21.15.15:316][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.25-21.15.15:415][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.25-21.15.15:416][  0]LogInit: Using OS detected language (en-US).
+[2022.09.25-21.15.15:417][  0]LogInit: Using OS detected locale (en-US).
+[2022.09.25-21.15.15:421][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.25-21.15.15:607][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.25-21.15.15:627][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.25-21.15.15:627][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.25-21.15.15:627][  0]LogWindowsTextInputMethodSystem:   - Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.09.25-21.15.15:627][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.09.25-21.15.15:627][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.25-21.15.15:679][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.25-21.15.15:679][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.25-21.15.17:253][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.25-21.15.17:256][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.25-21.15.17:256][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.25-21.15.17:314][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.25-21.15.17:434][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.25-21.15.17:440][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.25-21.15.17:451][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.25-21.15.17:489][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.25-21.15.17:489][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.25-21.15.17:559][  0]LogD3D12RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.25-21.15.17:559][  0]LogWindows: Attached monitors:
+[2022.09.25-21.15.17:559][  0]LogWindows:     resolution: 1920x1200, work area: (0, 0) -> (1920, 1200), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.09.25-21.15.17:559][  0]LogWindows: Found 1 attached monitors.
+[2022.09.25-21.15.17:559][  0]LogWindows: EnumDisplayDevices:
+[2022.09.25-21.15.17:559][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.09.25-21.15.17:559][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.09.25-21.15.17:559][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.25-21.15.17:559][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.09.25-21.15.17:560][  0]LogWindows:    4. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.09.25-21.15.17:560][  0]LogWindows:    5. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.09.25-21.15.17:560][  0]LogWindows:    6. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.09.25-21.15.17:560][  0]LogWindows:    7. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.09.25-21.15.17:560][  0]LogWindows:    8. 'SuperDisplay Virtual Adapter' (P:0 D:0), name: '\\.\DISPLAY9'
+[2022.09.25-21.15.17:560][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.09.25-21.15.17:560][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.09.25-21.15.17:560][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.09.25-21.15.17:560][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.09.25-21.15.17:560][  0]LogRHI: Texture pool is 3310 MB (70% of 4729 MB)
+[2022.09.25-21.15.17:560][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.25-21.15.17:560][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.25-21.15.17:604][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.25-21.15.17:639][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/AirsoftTag.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/TurnkeyReport_0.log" -log="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/TurnkeyLog_0.log" -project="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/AirsoftTag.uproject"  -platform=all'
+[2022.09.25-21.15.17:639][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/AirsoftTag.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/TurnkeyReport_0.log" -log="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/TurnkeyLog_0.log" -project="C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/AirsoftTag.uproject"  -platform=all" ]
+[2022.09.25-21.15.17:737][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.25-21.15.17:804][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.25-21.15.17:804][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.25-21.15.17:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.25-21.15.17:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.25-21.15.17:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.25-21.15.17:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.25-21.15.17:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.25-21.15.17:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.25-21.15.17:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.25-21.15.17:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.25-21.15.17:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.25-21.15.17:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.25-21.15.17:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.25-21.15.17:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.25-21.15.17:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.25-21.15.17:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.25-21.15.17:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.25-21.15.17:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.25-21.15.17:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.25-21.15.17:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.25-21.15.17:957][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.25-21.15.18:008][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.25-21.15.18:020][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.25-21.15.18:020][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.25-21.15.18:020][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.25-21.15.18:020][  0]LogTargetPlatformManager:   PCM
+[2022.09.25-21.15.18:032][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.25-21.15.18:032][  0]LogTargetPlatformManager:   BINKA
+[2022.09.25-21.15.18:032][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.25-21.15.18:032][  0]LogTargetPlatformManager:   OGG
+[2022.09.25-21.15.18:032][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.25-21.15.18:032][  0]LogTargetPlatformManager:   OPUS
+[2022.09.25-21.15.18:234][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.25-21.15.18:272][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.25-21.15.18:291][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.25-21.15.18:292][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.25-21.15.18:292][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.25-21.15.18:292][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.25-21.15.18:292][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.25-21.15.18:292][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.25-21.15.18:292][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.25-21.15.18:292][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2022.09.25-21.15.18:297][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.25-21.15.18:300][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.25-21.15.18:300][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.25-21.15.18:303][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.25-21.15.18:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.25-21.15.18:309][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.25-21.15.18:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.25-21.15.18:309][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.25-21.15.18:330][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.25-21.15.18:331][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.25-21.15.18:331][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.25-21.15.18:341][  0]LogDerivedDataCache: Speed tests for C:/Users/31640/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.25-21.15.18:341][  0]LogDerivedDataCache: Display: Performance to C:/Users/31640/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=150.13MBs, RandomWriteSpeed=348.58MBs. Assigned SpeedClass 'Local'
+[2022.09.25-21.15.18:343][  0]LogDerivedDataCache: Using Local data cache path C:/Users/31640/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.25-21.15.18:343][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.25-21.15.18:343][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.25-21.15.18:348][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.25-21.15.18:348][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.25-21.15.18:360][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Intermediate/Shaders/WorkingDirectory/3116/).
+[2022.09.25-21.15.18:361][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/31640/AppData/Local/Temp/UnrealShaderWorkingDir/3FDBBAAE40BDE3931A9CFE9A5C9AAEB7/'.
+[2022.09.25-21.15.18:362][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.25-21.15.18:362][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2022.09.25-21.15.21:636][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.25-21.15.21:636][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.25-21.15.21:649][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.25-21.15.21:714][  0]LogAssetRegistry: FAssetRegistry took 0.0147 seconds to start up
+[2022.09.25-21.15.21:720][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.25-21.15.22:046][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.25-21.15.22:056][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.25-21.15.22:216][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.25-21.15.22:216][  0]LogDeviceProfileManager: Active device profile: [000005F722157540][000005F6FB725000 50] WindowsEditor
+[2022.09.25-21.15.22:216][  0]LogDeviceProfileManager: Profiles: [000005F722157000][000005F7157FC800 50] Windows, [000005F722157540][000005F6FB725000 50] WindowsEditor, [000005F722155940][000005F71A87A000 50] WindowsServer, [000005F722157700][000005F7223D0000 50] WindowsClient, [000005F722154600][000005F7223D5000 50] IOS, [000005F722156E40][000005F7223D7800 50] iPadAir2, [000005F722156C80][000005F7223DC800 50] IPadPro, [000005F722154980][000005F7223DA000 50] iPadAir3, [000005F722153B80][000005F71A877800 50] iPadAir4, [000005F722154D00][000005F722420000 50] iPadMini4, [000005F722153640][000005F722425000 50] iPadMini5, [000005F722155080][000005F722427800 50] iPadMini6, [000005F72215A2C0][000005F7223D2800 50] iPhone6S, [000005F72215A640][000005F72242C800 50] iPhone7, [000005F72215A9C0][000005F72242A000 50] iPodTouch7, [000005F722154280][000005F722430000 50] iPhone6SPlus, [000005F72215A100][000005F722435000 50] iPhone7Plus, [000005F722157C40][000005F722437800 50] iPhoneSE, [000005F722159F40][000005F72243A000 50] iPhone8, [000005F722152840][000005F72243C800 50] iPhone8Plus, [000005F72215A800][000005F722422800 50] iPhoneX, [000005F7221524C0][000005F722440000 50] iPhoneXS, [000005F722158DC0][000005F722445000 50] iPhoneXSMax, [000005F722157FC0][000005F722447800 50] iPhoneXR, [000005F7221586C0][000005F72244A000 50] iPhone11, [000005F722156AC0][000005F72244C800 50] iPhone11Pro, [000005F722158500][000005F722432800 50] iPhone11ProMax, [000005F722155240][000005F722450000 50] iPhoneSE2, [000005F722158340][000005F722455000 50] iPhone12Mini, [000005F722157380][000005F722457800 50] iPhone12, [000005F722155780][000005F72245A000 50] iPhone12Pro, [000005F722152680][000005F72245C800 50] iPhone12ProMax, [000005F7221540C0][000005F722442800 50] iPhone13Mini, [000005F722156040][000005F722460000 50] iPhone13, [000005F722158C00][000005F722465000 50] iPhone13Pro, [000005F722151F80][000005F722467800 50] iPhone13ProMax, [000005F722156900][000005F72246A000 50] iPadPro105, [000005F7221539C0][000005F72246C800 50] iPadPro129, [000005F7221547C0][000005F722452800 50] iPadPro97, [000005F722158880][000005F722470000 50] iPadPro2_129, [000005F72215AB80][000005F722475000 50] iPad5, [000005F722155E80][000005F722477800 50] iPad6, [000005F7221532C0][000005F72247A000 50] iPad7, [000005F7221563C0][000005F72247C800 50] iPad8, [000005F722153800][000005F722462800 50] iPad9, [000005F722153100][000005F722480000 50] iPadPro11, [000005F722159140][000005F722485000 50] iPadPro2_11, [000005F722156200][000005F722487800 50] iPadPro3_11, [000005F7221594C0][000005F72248A000 50] iPadPro3_129, [000005F722159D80][000005F72248C800 50] iPadPro4_129, [000005F722158F80][000005F722472800 50] iPadPro5_129, [000005F722153F00][000005F722490000 50] AppleTV, [000005F722158180][000005F722495000 50] AppleTV4K, [000005F722153480][000005F722497800 50] TVOS, [000005F72215CB00][000005F72249C800 50] Mac, [000005F72215CE80][000005F72249A000 50] MacEditor, [000005F72215BD00][000005F722482800 50] MacClient, [000005F722157A80][000005F7224A0000 50] MacServer, [000005F72215D040][000005F7224A7800 50] Linux, [000005F722159840][000005F7224A5000 50] LinuxEditor, [000005F72215B980][000005F7224AA000 50] LinuxArm64Editor, [000005F72215BB40][000005F7224AC800 50] LinuxArm64, [000005F72215C5C0][000005F722492800 50] LinuxClient, [000005F722152F40][000005F7224B0000 50] LinuxArm64Client, [000005F72215AF00][000005F7224B5000 50] LinuxServer, [000005F722159BC0][000005F7224B7800 50] LinuxArm64Server, [000005F72215C240][000005F7224BA000 50] Android, [000005F722154EC0][000005F7224BC800 50] Android_Preview_OpenGL, [000005F72215CCC0][000005F7224A2800 50] Android_Preview_Vulkan, [000005F72215B7C0][000005F7224C0000 50] Android_Low, [000005F72215BEC0][000005F7224C5000 50] Android_Mid, [000005F722153D40][000005F7224C7800 50] Android_High, [000005F722154440][000005F7224CA000 50] Android_Default, [000005F722159680][000005F7224CC800 50] Android_Adreno4xx, [000005F72215C780][000005F7224B2800 50] Android_Adreno5xx_Low, [000005F72215D3C0][000005F7224D0000 50] Android_Adreno5xx, [000005F72215AD40][000005F7224D5000 50] Android_Adreno6xx, [000005F722159A00][000005F7224D7800 50] Android_Adreno6xx_Vulkan, [000005F722159300][000005F7224DA000 50] Android_Adreno7xx, [000005F72215C080][000005F7224DC800 50] Android_Adreno7xx_Vulkan, [000005F72215C940][000005F7224C2800 50] Android_Mali_T6xx, [000005F722158A40][000005F7224E0000 50] Android_Mali_T7xx, [000005F72215D200][000005F7224E5000 50] Android_Mali_T8xx, [000005F722156580][000005F7224E7800 50] Android_Mali_G71, [000005F72215B280][000005F7224EA000 50] Android_Mali_G72, [000005F72215DC80][000005F7224EC800 50] Android_Mali_G72_Vulkan, [000005F72215D740][000005F7224D2800 50] Android_Mali_G76, [000005F72215B440][000005F7224F0000 50] Android_Mali_G76_Vulkan, [000005F72215DE40][000005F7224F5000 50] Android_Mali_G77, [000005F72215A480][000005F7224F7800 50] Android_Mali_G77_Vulkan, [000005F722156740][000005F7224FA000 50] Android_Mali_G78, [000005F72215E000][000005F7224FC800 50] Android_Mali_G78_Vulkan, [000005F72215D580][000005F7224E2800 50] Android_Mali_G710, [000005F722155B00][000005F722500000 50] Android_Mali_G710_Vulkan, [000005F72215EC40][000005F722505000 50] Android_Xclipse_920, [000005F7221555C0][000005F722507800 50] Android_Xclipse_920_Vulkan, [000005F72215E8C0][000005F72250A000 50] Android_Vulkan_SM5, [000005F72215EE00][000005F72250C800 50] Android_PowerVR_G6xxx, [000005F72215E1C0][000005F7224F2800 50] Android_PowerVR_GT7xxx, [000005F72215B600][000005F722510000 50] Android_PowerVR_GE8xxx, [000005F72215EFC0][000005F722515000 50] Android_PowerVR_GM9xxx, [000005F722155400][000005F722517800 50] Android_PowerVR_GM9xxx_Vulkan, [000005F722520000][000005F72251A000 50] Android_TegraK1, [000005F722522300][000005F72251C800 50] Android_Unknown_Vulkan, [000005F722522140][000005F722502800 50] Oculus_Quest, [000005F722521F80][000005F722530000 50] Oculus_Quest2, [000005F722521DC0][000005F722535000 50] HoloLens, 
+[2022.09.25-21.15.22:216][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.25-21.15.22:227][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.25-21.15.22:320][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.25-21.15.22:652][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.25-21.15.22:652][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.25-21.15.22:652][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.25-21.15.22:652][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.25-21.15.22:652][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.25-21.15.22:721][  0]LogNetVersion: AirsoftTag 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3124286085)
+[2022.09.25-21.15.23:102][  0]LogSlate: Border
+[2022.09.25-21.15.23:102][  0]LogSlate: BreadcrumbButton
+[2022.09.25-21.15.23:102][  0]LogSlate: Default
+[2022.09.25-21.15.23:102][  0]LogSlate: Icons.Save
+[2022.09.25-21.15.23:102][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.25-21.15.23:102][  0]LogSlate: ListView
+[2022.09.25-21.15.23:102][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.25-21.15.23:102][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.25-21.15.23:102][  0]LogSlate: TableView.DarkRow
+[2022.09.25-21.15.23:102][  0]LogSlate: TableView.Row
+[2022.09.25-21.15.23:102][  0]LogSlate: TreeView
+[2022.09.25-21.15.23:624][  0]SourceControl: Source control is disabled
+[2022.09.25-21.15.23:698][  0]SourceControl: Source control is disabled
+[2022.09.25-21.15.23:698][  0]SourceControl: Source control is disabled
+[2022.09.25-21.15.23:909][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.25-21.15.23:909][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.09.25-21.15.23:909][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.25-21.15.24:844][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E57026714726426A1E885D89A94FECD9 | Instance: C551ED11459828BA31962FAA73DDE49A (OUALID-ASUS-LAP-3116).
+[2022.09.25-21.15.25:628][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.25-21.15.25:647][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.25-21.15.25:763][  0]LogPython: Using Python 3.9.7
+[2022.09.25-21.15.27:373][  0]LogUProjectInfo: Found projects:
+[2022.09.25-21.15.28:596][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.25-21.15.28:665][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.25-21.15.28:665][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.25-21.15.28:756][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.25-21.15.29:004][  0]LogCollectionManager: Loaded 0 collections in 0.001976 seconds
+[2022.09.25-21.15.29:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Collections/' took 0.00s
+[2022.09.25-21.15.29:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Content/Developers/31640/Collections/' took 0.00s
+[2022.09.25-21.15.29:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Content/Collections/' took 0.00s
+[2022.09.25-21.15.29:733][  0]LogEngine: Initializing Engine...
+[2022.09.25-21.15.29:753][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.25-21.15.29:766][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.09.25-21.15.30:267][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.25-21.15.30:275][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.25-21.15.30:312][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-21.15.30:388][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.25-21.15.30:408][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.25-21.15.30:448][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.25-21.15.30:451][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.25-21.15.30:451][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.25-21.15.30:455][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.25-21.15.30:455][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.25-21.15.30:456][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.25-21.15.30:456][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.25-21.15.30:456][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.25-21.15.30:456][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.25-21.15.30:456][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.25-21.15.30:456][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.25-21.15.30:456][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.25-21.15.30:457][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.25-21.15.30:459][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.25-21.15.30:459][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.25-21.15.30:459][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.25-21.15.30:489][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.25-21.15.30:624][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.09.25-21.15.30:626][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.25-21.15.30:641][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.25-21.15.30:642][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.25-21.15.30:645][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.25-21.15.30:645][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.25-21.15.30:646][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.25-21.15.30:646][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.25-21.15.30:646][  0]LogInit: FAudioDevice initialized.
+[2022.09.25-21.15.30:647][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.25-21.15.30:648][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.25-21.15.30:649][  0]LogInit: Texture streaming: Enabled
+[2022.09.25-21.15.30:710][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.25-21.15.30:727][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.25-21.15.30:761][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.25-21.15.30:782][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.25-21.15.30:782][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: AirsoftTagEditor Win64 Development
+[2022.09.25-21.15.32:033][  0]LogLiveCoding: Display: First instance in process group "UE_AirsoftTag_0x69efdf99", spawning console
+[2022.09.25-21.15.32:033][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.25-21.15.32:033][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.25-21.15.32:054][  0]LogInit: Transaction tracking system initialized
+[2022.09.25-21.15.32:181][  0]BlueprintLog: New page: Editor Load
+[2022.09.25-21.15.32:556][  0]LocalizationService: Localization service is disabled
+[2022.09.25-21.15.32:633][  0]TimingProfiler: Initialize
+[2022.09.25-21.15.32:634][  0]TimingProfiler: OnSessionChanged
+[2022.09.25-21.15.32:634][  0]LoadingProfiler: Initialize
+[2022.09.25-21.15.32:634][  0]LoadingProfiler: OnSessionChanged
+[2022.09.25-21.15.32:636][  0]NetworkingProfiler: Initialize
+[2022.09.25-21.15.32:638][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.25-21.15.32:638][  0]MemoryProfiler: Initialize
+[2022.09.25-21.15.32:638][  0]MemoryProfiler: OnSessionChanged
+[2022.09.25-21.15.33:811][  0]LogFileCache: Scanning file cache for directory 'C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Content/' took 0.01s
+[2022.09.25-21.15.33:811][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.25-21.15.34:209][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.25-21.15.34:221][  0]LogUnrealEdMisc: Loading editor; pre map load, took 23.813
+[2022.09.25-21.15.34:224][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.25-21.15.34:229][  0]LightingResults: New page: Lighting Build
+[2022.09.25-21.15.34:243][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.25-21.15.34:249][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.25-21.15.34:255][  0]MapCheck: New page: Map Check
+[2022.09.25-21.15.34:255][  0]LightingResults: New page: Lighting Build
+[2022.09.25-21.15.34:285][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.25-21.15.34:315][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.09.25-21.15.34:400][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.09.25-21.15.34:406][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-21.15.34:407][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.25-21.15.34:413][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.25-21.15.34:414][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.25-21.15.34:959][  0]LogWorldPartition: Display: WorldPartition initialize took 546 ms
+[2022.09.25-21.15.35:174][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.25-21.15.35:184][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.25-21.15.35:186][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.25-21.15.35:196][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.634ms to complete.
+[2022.09.25-21.15.35:196][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.973
+[2022.09.25-21.15.35:249][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.840
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: ================================================
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.25-21.15.35:249][  0]LogShaderCompilers: Display: ================================================
+[2022.09.25-21.15.35:399][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.25-21.15.35:402][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.25-21.15.35:402][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.25-21.15.35:402][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.25-21.15.35:402][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.25-21.15.35:403][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.25-21.15.35:438][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.25-21.15.35:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.25-21.15.35:448][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.25-21.15.35:452][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.25-21.15.35:545][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.25-21.15.35:719][  0]LogSlate: Took 0.003557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.25-21.15.35:726][  0]LogSlate: Took 0.003429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.25-21.15.35:736][  0]LogSlate: Took 0.003652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.25-21.15.35:741][  0]LogSlate: Took 0.003280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.25-21.15.35:745][  0]LogSlate: Took 0.004103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.25-21.15.35:794][  0]LogViewport: Scene viewport resized to 925x689, mode Windowed.
+[2022.09.25-21.15.35:882][  0]LogSlate: Took 0.004189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.25-21.15.36:636][  0]LogD3D12RHI: Creating RTPSO with 105 shaders (0 cached, 105 new) took 209.43 ms. Compile time 117.76 ms, link time 90.48 ms.
+[2022.09.25-21.15.36:719][  0]LogD3D12RHI: Creating RTPSO with 9 shaders (0 cached, 9 new) took 20.60 ms. Compile time 12.85 ms, link time 6.85 ms.
+[2022.09.25-21.15.36:807][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 110.61 ms. Compile time 4.31 ms, link time 105.12 ms.
+[2022.09.25-21.15.36:847][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.25-21.15.36:890][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.25-21.15.36:894][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.25-21.15.36:908][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.25-21.15.36:909][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.25-21.15.36:917][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.25-21.15.37:194][  0]LogStall: Startup...
+[2022.09.25-21.15.37:195][  0]LogStall: Startup complete.
+[2022.09.25-21.15.37:221][  0]LogLoad: (Engine Initialization) Total time: 26.81 seconds
+[2022.09.25-21.15.37:221][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.25-21.15.37:324][  0]LogAssetRegistry: Asset discovery search completed in 15.6124 seconds
+[2022.09.25-21.15.37:348][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000237 seconds (updated 0 objects)
+[2022.09.25-21.15.37:481][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.25-21.16.31:386][162]LogHttp: Warning: 000005F73E9A5000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.16.31:386][162]LogHttp: Warning: 000005F73E9A5000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.16.31:386][162]LogHttp: Warning: 000005F73E9A5000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.16.31:386][162]LogHttp: Warning: 000005F73E9A5000: libcurl info message cache 1 (Closing connection 0)
+[2022.09.25-21.16.31:386][162]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.17.20:866][312]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.25-21.17.20:907][312]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.25-21.17.21:017][313]LogDerivedDataCache: C:/Users/31640/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.672 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.25-21.17.30:747][887]LogHttp: Warning: 000005F73EEA2D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.17.30:747][887]LogHttp: Warning: 000005F73EEA2D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.17.30:747][887]LogHttp: Warning: 000005F73EEA2D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.17.30:747][887]LogHttp: Warning: 000005F73EEA2D00: libcurl info message cache 1 (Closing connection 1)
+[2022.09.25-21.17.30:747][887]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.17.34:742][112]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.CR_Mannequin_FootPlant
+[2022.09.25-21.17.34:745][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-21.17.35:296][112]LogLinker: Warning: VerifyImport: Failed to find script package for import object 'Package /Script/LyraGame'
+[2022.09.25-21.17.35:296][112]LogLinker: Warning: Unable to load PhysMat_Player with outer Package /Game/Characters/Heroes/PhysMat_Player because its class (PhysicalMaterialWithTags) does not exist
+[2022.09.25-21.17.35:296][112]LogLinker: Warning: Unable to load PhysMat_Player_WeakSpot with outer Package /Game/Characters/Heroes/PhysMat_Player_WeakSpot because its class (PhysicalMaterialWithTags) does not exist
+[2022.09.25-21.17.35:504][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-21.17.35:613][112]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn) ...
+[2022.09.25-21.17.35:652][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.09.25-21.17.35:653][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.09.25-21.17.37:645][112]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.09.25-21.17.37:645][112]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049693s
+[2022.09.25-21.17.37:645][112]ControlRigPythonLog: New page: CR_Mannequin_FootPlant
+[2022.09.25-21.17.37:649][112]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002495s (0.210837s overbudget)
+[2022.09.25-21.17.38:237][112]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.09.25-21.17.38:589][112]LogSlate: Took 0.003576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.25-21.17.38:594][112]LogViewport: Scene viewport resized to 140x76, mode Windowed.
+[2022.09.25-21.17.49:711][734]LogViewport: Scene viewport resized to 380x493, mode Windowed.
+[2022.09.25-21.17.59:981][237]LogViewport: Scene viewport resized to 428x493, mode Windowed.
+[2022.09.25-21.18.00:003][238]LogViewport: Scene viewport resized to 464x493, mode Windowed.
+[2022.09.25-21.18.00:049][240]LogViewport: Scene viewport resized to 563x493, mode Windowed.
+[2022.09.25-21.18.00:089][242]LogViewport: Scene viewport resized to 573x493, mode Windowed.
+[2022.09.25-21.18.00:296][254]LogViewport: Scene viewport resized to 579x493, mode Windowed.
+[2022.09.25-21.18.00:338][256]LogViewport: Scene viewport resized to 583x493, mode Windowed.
+[2022.09.25-21.18.00:511][266]LogViewport: Scene viewport resized to 586x493, mode Windowed.
+[2022.09.25-21.18.00:950][292]LogViewport: Scene viewport resized to 585x493, mode Windowed.
+[2022.09.25-21.18.01:191][306]LogViewport: Scene viewport resized to 578x493, mode Windowed.
+[2022.09.25-21.18.01:211][307]LogViewport: Scene viewport resized to 570x493, mode Windowed.
+[2022.09.25-21.18.01:252][309]LogViewport: Scene viewport resized to 551x493, mode Windowed.
+[2022.09.25-21.18.01:276][310]LogViewport: Scene viewport resized to 547x493, mode Windowed.
+[2022.09.25-21.18.01:320][312]LogViewport: Scene viewport resized to 544x493, mode Windowed.
+[2022.09.25-21.18.04:300][452]LogViewport: Scene viewport resized to 547x493, mode Windowed.
+[2022.09.25-21.18.04:340][454]LogViewport: Scene viewport resized to 549x493, mode Windowed.
+[2022.09.25-21.18.04:381][456]LogViewport: Scene viewport resized to 557x493, mode Windowed.
+[2022.09.25-21.18.04:404][457]LogViewport: Scene viewport resized to 560x493, mode Windowed.
+[2022.09.25-21.18.04:430][458]LogViewport: Scene viewport resized to 565x493, mode Windowed.
+[2022.09.25-21.18.04:491][461]LogViewport: Scene viewport resized to 571x493, mode Windowed.
+[2022.09.25-21.18.04:518][462]LogViewport: Scene viewport resized to 574x493, mode Windowed.
+[2022.09.25-21.18.04:544][463]LogViewport: Scene viewport resized to 578x493, mode Windowed.
+[2022.09.25-21.18.04:579][465]LogViewport: Scene viewport resized to 586x493, mode Windowed.
+[2022.09.25-21.18.04:620][467]LogViewport: Scene viewport resized to 590x493, mode Windowed.
+[2022.09.25-21.18.04:660][469]LogViewport: Scene viewport resized to 594x493, mode Windowed.
+[2022.09.25-21.18.04:701][471]LogViewport: Scene viewport resized to 597x493, mode Windowed.
+[2022.09.25-21.18.04:742][473]LogViewport: Scene viewport resized to 599x493, mode Windowed.
+[2022.09.25-21.18.30:753][911]LogHttp: Warning: 000005F7768B9B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.18.30:753][911]LogHttp: Warning: 000005F7768B9B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.18.30:753][911]LogHttp: Warning: 000005F7768B9B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.18.30:753][911]LogHttp: Warning: 000005F7768B9B00: libcurl info message cache 1 (Closing connection 2)
+[2022.09.25-21.18.30:753][911]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.19.30:747][458]LogHttp: Warning: 000005F768019100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.19.30:747][458]LogHttp: Warning: 000005F768019100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.19.30:747][458]LogHttp: Warning: 000005F768019100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.19.30:747][458]LogHttp: Warning: 000005F768019100: libcurl info message cache 1 (Closing connection 3)
+[2022.09.25-21.19.30:747][458]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.20.30:737][ 39]LogHttp: Warning: 000005F7617A3200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.20.30:737][ 39]LogHttp: Warning: 000005F7617A3200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.20.30:737][ 39]LogHttp: Warning: 000005F7617A3200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.20.30:737][ 39]LogHttp: Warning: 000005F7617A3200: libcurl info message cache 1 (Closing connection 4)
+[2022.09.25-21.20.30:737][ 39]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.20.46:538][979]LogSlate: Took 0.004302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.09.25-21.20.58:465][684]LogWindowsTextInputMethodSystem: Activated input method: Japanese (Japan) - (Keyboard).
+[2022.09.25-21.20.58:466][684]LogWindowsTextInputMethodSystem: Activated input method: Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.09.25-21.21.30:762][574]LogHttp: Warning: 000005F773CC6E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.21.30:762][574]LogHttp: Warning: 000005F773CC6E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.21.30:762][574]LogHttp: Warning: 000005F773CC6E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.21.30:762][574]LogHttp: Warning: 000005F773CC6E00: libcurl info message cache 1 (Closing connection 5)
+[2022.09.25-21.21.30:762][574]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.22.29:366][ 58]LogViewport: Scene viewport resized to 598x504, mode Windowed.
+[2022.09.25-21.22.29:433][ 60]LogViewport: Scene viewport resized to 287x196, mode Windowed.
+[2022.09.25-21.22.29:461][ 61]LogViewport: Scene viewport resized to 245x154, mode Windowed.
+[2022.09.25-21.22.29:959][ 91]LogViewport: Scene viewport resized to 599x493, mode Windowed.
+[2022.09.25-21.22.30:135][101]LogSlate: Window 'CR_Mannequin_FootPlant' being destroyed
+[2022.09.25-21.22.30:752][138]LogHttp: Warning: 000005F776DC3700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.22.30:752][138]LogHttp: Warning: 000005F776DC3700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.22.30:752][138]LogHttp: Warning: 000005F776DC3700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.22.30:752][138]LogHttp: Warning: 000005F776DC3700: libcurl info message cache 1 (Closing connection 6)
+[2022.09.25-21.22.30:752][138]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.22.32:288][203]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_Body.CR_Mannequin_Body
+[2022.09.25-21.22.32:289][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-21.22.32:294][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-21.22.32:309][203]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.09.25-21.22.32:309][203]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.09.25-21.22.32:781][203]ControlRigPythonLog: New page: CR_Mannequin_Body
+[2022.09.25-21.22.32:885][203]LogViewport: Scene viewport resized to 380x493, mode Windowed.
+[2022.09.25-21.22.45:783][785]LogScript: Warning: Script Msg: /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant : InNode 'RigVMUnitNode_72' is on a different graph. InNode graph is None, this graph is ContainedGraph
+[2022.09.25-21.22.45:786][785]LogScript: Warning: Script Msg: /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant : InNode 'RigVMUnitNode_74' is on a different graph. InNode graph is None, this graph is ContainedGraph
+[2022.09.25-21.22.46:833][845]LogScript: Warning: Script Msg: /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant : InNode 'RigVMUnitNode_94' is on a different graph. InNode graph is None, this graph is ContainedGraph
+[2022.09.25-21.22.46:836][845]LogScript: Warning: Script Msg: /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant : InNode 'RigVMUnitNode_96' is on a different graph. InNode graph is None, this graph is ContainedGraph
+[2022.09.25-21.22.50:110][ 31]LogScript: Warning: Script Msg: /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant : InNode 'RigVMUnitNode_137' is on a different graph. InNode graph is None, this graph is ContainedGraph
+[2022.09.25-21.23.30:744][461]LogHttp: Warning: 000005F7941AEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.23.30:744][461]LogHttp: Warning: 000005F7941AEB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.23.30:744][461]LogHttp: Warning: 000005F7941AEB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.23.30:744][461]LogHttp: Warning: 000005F7941AEB00: libcurl info message cache 1 (Closing connection 7)
+[2022.09.25-21.23.30:744][461]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.23.35:339][733]LogEditorTransaction: Undo Move Control
+[2022.09.25-21.24.11:341][854]LogEditorTransaction: Undo Move Control
+[2022.09.25-21.24.30:755][991]LogHttp: Warning: 000005F73EEEF500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.24.30:755][991]LogHttp: Warning: 000005F73EEEF500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.24.30:755][991]LogHttp: Warning: 000005F73EEEF500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.24.30:755][991]LogHttp: Warning: 000005F73EEEF500: libcurl info message cache 1 (Closing connection 8)
+[2022.09.25-21.24.30:755][991]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.24.36:217][315]LogEditorTransaction: Undo Delete selected nodes
+[2022.09.25-21.25.30:752][549]LogHttp: Warning: 000005F776138700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.25.30:752][549]LogHttp: Warning: 000005F776138700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.25.30:752][549]LogHttp: Warning: 000005F776138700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.25.30:752][549]LogHttp: Warning: 000005F776138700: libcurl info message cache 1 (Closing connection 9)
+[2022.09.25-21.25.30:752][549]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.25.56:798][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.09.25-21.25.56:803][ 95]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.101
+[2022.09.25-21.25.56:804][ 95]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant] ([2] browsable assets)...
+[2022.09.25-21.25.56:819][ 95]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.CR_Mannequin_FootPlant]
+[2022.09.25-21.25.56:819][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant]
+[2022.09.25-21.25.56:828][ 95]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005682 seconds
+[2022.09.25-21.25.56:847][ 95]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant_Auto1
+[2022.09.25-21.25.56:847][ 95]LogSavePackage: Moving '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/CR_Mannequin_FootPlant_Auto105D83BB74D621198E094C58CB9224158.tmp' to '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Autosaves/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant_Auto1.uasset'
+[2022.09.25-21.25.56:850][ 95]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_Body] ([2] browsable assets)...
+[2022.09.25-21.25.56:864][ 95]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_Body.CR_Mannequin_Body]
+[2022.09.25-21.25.56:864][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_Body]
+[2022.09.25-21.25.57:320][ 95]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_Body_Auto1
+[2022.09.25-21.25.57:320][ 95]LogSavePackage: Moving '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/CR_Mannequin_Body_Auto1432ABA6142751551D12662BB1C7A0EA5.tmp' to '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Autosaves/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_Body_Auto1.uasset'
+[2022.09.25-21.25.57:321][ 95]LogFileHelpers: Auto-saving content packages took 0.518
+[2022.09.25-21.26.30:758][ 96]LogHttp: Warning: 000005F775262800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.26.30:759][ 96]LogHttp: Warning: 000005F775262800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.26.30:759][ 96]LogHttp: Warning: 000005F775262800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.26.30:759][ 96]LogHttp: Warning: 000005F775262800: libcurl info message cache 1 (Closing connection 10)
+[2022.09.25-21.26.30:759][ 96]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.27.09:752][407]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.27.09:792][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.09.25-21.27.12:437][561]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.27.12:469][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.09.25-21.27.14:404][674]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.27.14:437][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.25-21.27.25:412][320]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.27.25:448][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.09.25-21.27.30:748][635]LogHttp: Warning: 000005F77D925A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.27.30:748][635]LogHttp: Warning: 000005F77D925A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.27.30:748][635]LogHttp: Warning: 000005F77D925A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.27.30:748][635]LogHttp: Warning: 000005F77D925A00: libcurl info message cache 1 (Closing connection 11)
+[2022.09.25-21.27.30:749][635]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.28.16:645][371]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.28.16:680][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.09.25-21.28.30:743][206]LogHttp: Warning: 000005F72877AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.28.30:743][206]LogHttp: Warning: 000005F72877AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.28.30:743][206]LogHttp: Warning: 000005F72877AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.28.30:743][206]LogHttp: Warning: 000005F72877AF00: libcurl info message cache 1 (Closing connection 12)
+[2022.09.25-21.28.30:743][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.28.34:922][456]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.28.34:960][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.09.25-21.29.15:115][854]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.29.15:154][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.09.25-21.29.15:757][880]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant
+[2022.09.25-21.29.15:757][880]LogSavePackage: Moving '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/CR_Mannequin_FootPlantAD19AC4B462757F0F43A82A7406046B9.tmp' to '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Content/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.uasset'
+[2022.09.25-21.29.15:776][880]AssetCheck: New page: Asset Save: CR_Mannequin_FootPlant
+[2022.09.25-21.29.15:776][880]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.CR_Mannequin_FootPlant
+[2022.09.25-21.29.30:746][764]LogHttp: Warning: 000005F7A3BE2300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.29.30:746][764]LogHttp: Warning: 000005F7A3BE2300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.29.30:746][764]LogHttp: Warning: 000005F7A3BE2300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.29.30:746][764]LogHttp: Warning: 000005F7A3BE2300: libcurl info message cache 1 (Closing connection 13)
+[2022.09.25-21.29.30:746][764]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.30.30:744][329]LogHttp: Warning: 000005F77C12CD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.30.30:744][329]LogHttp: Warning: 000005F77C12CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.30.30:744][329]LogHttp: Warning: 000005F77C12CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.30.30:744][329]LogHttp: Warning: 000005F77C12CD00: libcurl info message cache 1 (Closing connection 14)
+[2022.09.25-21.30.30:744][329]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.31.30:738][906]LogHttp: Warning: 000005F76484AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.31.30:738][906]LogHttp: Warning: 000005F76484AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.31.30:738][906]LogHttp: Warning: 000005F76484AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.31.30:738][906]LogHttp: Warning: 000005F76484AF00: libcurl info message cache 1 (Closing connection 15)
+[2022.09.25-21.31.30:738][906]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.31.35:210][173]LogScript: Error: Script Msg: /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant : Cannot link 'DeltaFromPreviousTransform.PreviousValue' to 'MathVectorDistance.B': Source and target pin types are not compatible..
+[2022.09.25-21.32.09:186][197]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.32.09:224][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.25-21.32.30:746][479]LogHttp: Warning: 000005F7645AEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.32.30:746][479]LogHttp: Warning: 000005F7645AEB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.32.30:746][479]LogHttp: Warning: 000005F7645AEB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.32.30:746][479]LogHttp: Warning: 000005F7645AEB00: libcurl info message cache 1 (Closing connection 16)
+[2022.09.25-21.32.30:746][479]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.32.33:274][630]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.32.33:313][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.25-21.32.34:291][687]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.32.34:327][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.09.25-21.32.39:505][996]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.32.39:547][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.09.25-21.32.45:798][366]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.32.45:833][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.09.25-21.33.04:322][465]LogViewport: Scene viewport resized to 295x490, mode Windowed.
+[2022.09.25-21.33.08:243][523]LogViewport: Scene viewport resized to 187x490, mode Windowed.
+[2022.09.25-21.33.08:272][523]LogViewport: Scene viewport resized to 294x501, mode Windowed.
+[2022.09.25-21.33.08:326][525]LogViewport: Scene viewport resized to 195x305, mode Windowed.
+[2022.09.25-21.33.08:358][526]LogViewport: Scene viewport resized to 195x304, mode Windowed.
+[2022.09.25-21.33.09:235][576]LogViewport: Scene viewport resized to 196x310, mode Windowed.
+[2022.09.25-21.33.09:824][610]LogViewport: Scene viewport resized to 295x490, mode Windowed.
+[2022.09.25-21.33.11:663][718]LogViewport: Scene viewport resized to 454x686, mode Windowed.
+[2022.09.25-21.33.16:045][974]LogActorFactory: Actor Factory attempting to spawn ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.CR_Mannequin_FootPlant
+[2022.09.25-21.33.16:045][974]LogActorFactory: Actor Factory attempting to spawn ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.CR_Mannequin_FootPlant
+[2022.09.25-21.33.16:048][974]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Heroes/Mannequin/Meshes/SKM_Quinn.SKM_Quinn as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_0
+[2022.09.25-21.33.16:056][974]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Heroes/Mannequin/Meshes/SKM_Quinn.SKM_Quinn as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_0
+[2022.09.25-21.33.16:082][976]LogD3D12RHI: Creating RTPSO with 111 shaders (0 cached, 2 new) took 13.11 ms. Compile time 10.61 ms, link time 2.16 ms.
+[2022.09.25-21.33.16:653][  7]LogActorFactory: Actor Factory attempting to spawn ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.CR_Mannequin_FootPlant
+[2022.09.25-21.33.16:653][  7]LogActorFactory: Actor Factory attempting to spawn ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.CR_Mannequin_FootPlant
+[2022.09.25-21.33.16:657][  7]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Heroes/Mannequin/Meshes/SKM_Quinn.SKM_Quinn as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_UAID_50EBF6D11B2F173A01_1911553455
+[2022.09.25-21.33.16:662][  7]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/CR_Mannequin_FootPlant_Take1.CR_Mannequin_FootPlant_Take1
+[2022.09.25-21.33.16:662][  7]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/CR_Mannequin_FootPlant_Take1.CR_Mannequin_FootPlant_Take1
+[2022.09.25-21.33.16:667][  7]LogActorFactory: Actor Factory spawned LevelSequence /Game/CR_Mannequin_FootPlant_Take1.CR_Mannequin_FootPlant_Take1 as actor: LevelSequenceActor /Temp/Untitled_1.Untitled_1:PersistentLevel.LevelSequenceActor_UAID_50EBF6D11B2F173A01_1911561456
+[2022.09.25-21.33.16:667][  7]LogActorFactory: Actor Factory spawned LevelSequence /Game/CR_Mannequin_FootPlant_Take1.CR_Mannequin_FootPlant_Take1 as actor: LevelSequenceActor /Temp/Untitled_1.Untitled_1:PersistentLevel.LevelSequenceActor_UAID_50EBF6D11B2F173A01_1911561456
+[2022.09.25-21.33.16:692][  7]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CR_Mannequin_FootPlant_Take1.CR_Mannequin_FootPlant_Take1
+[2022.09.25-21.33.16:847][  7]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.09.25-21.33.16:847][  7]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.09.25-21.33.16:880][  7]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Heroes/Mannequin/Meshes/SKM_Quinn.SKM_Quinn as actor: SkeletalMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.SkeletalMeshActor_UAID_50EBF6D11B2F173A01_1911553455
+[2022.09.25-21.33.17:331][ 10]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2022.09.25-21.33.17:331][ 10]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2022.09.25-21.33.30:727][786]LogHttp: Warning: 000005F784821E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.33.30:727][786]LogHttp: Warning: 000005F784821E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.33.30:727][786]LogHttp: Warning: 000005F784821E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.33.30:727][786]LogHttp: Warning: 000005F784821E00: libcurl info message cache 1 (Closing connection 17)
+[2022.09.25-21.33.30:727][786]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.33.31:245][816]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.33.31:245][816]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.33.33:296][935]LogEditorTransaction: Undo Select Control
+[2022.09.25-21.33.34:076][963]LogEditorTransaction: Undo Delete selected nodes
+[2022.09.25-21.33.34:333][968]LogEditorTransaction: Undo Animatable Property Changed
+[2022.09.25-21.33.37:216][124]Cmd: DELETE
+[2022.09.25-21.33.37:216][124]Cmd: ACTOR DELETE
+[2022.09.25-21.33.39:417][124]LogSlate: Window 'Message' being destroyed
+[2022.09.25-21.33.39:423][124]Message dialog closed, result: Yes, title: Message, text: Actor CR_Mannequin_FootPlant is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+(Soft) Object /Game/CR_Mannequin_FootPlant_Take1.CR_Mannequin_FootPlant_Take1
+[2022.09.25-21.33.39:425][124]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.09.25-21.33.39:483][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.09.25-21.33.39:487][124]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2022.09.25-21.33.39:570][126]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/31640/Documents/Miyaman-Studio/AirsoftTag'
+[2022.09.25-21.33.46:460][528]LogViewport: Scene viewport resized to 294x501, mode Windowed.
+[2022.09.25-21.33.46:508][530]LogViewport: Scene viewport resized to 225x364, mode Windowed.
+[2022.09.25-21.33.46:539][531]LogViewport: Scene viewport resized to 196x308, mode Windowed.
+[2022.09.25-21.33.46:568][532]LogViewport: Scene viewport resized to 195x304, mode Windowed.
+[2022.09.25-21.33.46:949][555]LogViewport: Scene viewport resized to 295x490, mode Windowed.
+[2022.09.25-21.33.47:332][578]LogSlate: Window 'CR_Mannequin_FootPlant' being destroyed
+[2022.09.25-21.33.48:395][641]LogViewport: Scene viewport resized to 599x493, mode Windowed.
+[2022.09.25-21.34.30:757][328]LogHttp: Warning: 000005F782109600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.34.30:757][328]LogHttp: Warning: 000005F782109600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.34.30:757][328]LogHttp: Warning: 000005F782109600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.34.30:757][328]LogHttp: Warning: 000005F782109600: libcurl info message cache 1 (Closing connection 18)
+[2022.09.25-21.34.30:757][328]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.35.30:731][924]LogHttp: Warning: 000005F78210CD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.35.30:731][924]LogHttp: Warning: 000005F78210CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.35.30:731][924]LogHttp: Warning: 000005F78210CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.35.30:731][924]LogHttp: Warning: 000005F78210CD00: libcurl info message cache 1 (Closing connection 19)
+[2022.09.25-21.35.30:731][924]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.35.57:545][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.25-21.35.57:552][515]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.057
+[2022.09.25-21.35.57:552][515]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant] ([2] browsable assets)...
+[2022.09.25-21.35.57:565][515]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.CR_Mannequin_FootPlant]
+[2022.09.25-21.35.57:565][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant]
+[2022.09.25-21.35.57:578][515]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant_Auto2
+[2022.09.25-21.35.57:578][515]LogSavePackage: Moving '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/CR_Mannequin_FootPlant_Auto26974C91A4F186AEB8B0337810806DB70.tmp' to '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Autosaves/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant_Auto2.uasset'
+[2022.09.25-21.35.57:580][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CR_Mannequin_FootPlant_Take1] ([1] browsable assets)...
+[2022.09.25-21.35.57:580][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/CR_Mannequin_FootPlant_Take1]
+[2022.09.25-21.35.57:583][515]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CR_Mannequin_FootPlant_Take1_Auto2
+[2022.09.25-21.35.57:583][515]LogSavePackage: Moving '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/CR_Mannequin_FootPlant_Take1_Aut516C506E4E92F76AA5FFF29AA405D38E.tmp' to '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Autosaves/Game/CR_Mannequin_FootPlant_Take1_Auto2.uasset'
+[2022.09.25-21.35.57:583][515]LogFileHelpers: Auto-saving content packages took 0.032
+[2022.09.25-21.36.13:058][433]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.36.13:105][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.09.25-21.36.23:853][ 67]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.25-21.36.30:748][481]LogHttp: Warning: 000005F768EABE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.36.30:748][481]LogHttp: Warning: 000005F768EABE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.36.30:748][481]LogHttp: Warning: 000005F768EABE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.36.30:748][481]LogHttp: Warning: 000005F768EABE00: libcurl info message cache 1 (Closing connection 20)
+[2022.09.25-21.36.30:748][481]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.36.35:771][766]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.36.44:559][289]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.36.48:690][535]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.36.48:690][535]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.36.51:648][712]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.27:354][842]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.27:355][842]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.30:763][ 46]LogHttp: Warning: 000005F7724DC300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.37.30:763][ 46]LogHttp: Warning: 000005F7724DC300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.37.30:763][ 46]LogHttp: Warning: 000005F7724DC300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.37.30:763][ 46]LogHttp: Warning: 000005F7724DC300: libcurl info message cache 1 (Closing connection 21)
+[2022.09.25-21.37.30:763][ 46]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.37.32:230][133]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.41:454][683]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.41:455][683]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.44:454][862]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.46:459][979]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.48:143][ 78]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.53:657][408]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.37.53:657][408]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.53:699][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.09.25-21.37.53:713][408]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.37.53:714][408]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.02:042][895]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.06:113][138]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.10:486][397]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.10:486][397]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.18:294][862]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.22:025][ 86]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.23:327][164]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.38.23:328][164]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.23:370][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.09.25-21.38.23:387][164]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.23:388][164]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.28:819][477]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.38.28:819][477]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.28:861][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.25-21.38.28:872][477]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.28:872][477]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.30:748][573]LogHttp: Warning: 000005F776D3AA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.38.30:748][573]LogHttp: Warning: 000005F776D3AA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.38.30:748][573]LogHttp: Warning: 000005F776D3AA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.38.30:748][573]LogHttp: Warning: 000005F776D3AA00: libcurl info message cache 1 (Closing connection 22)
+[2022.09.25-21.38.30:748][573]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.38.44:441][393]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.38.54:286][978]LogScript: Error: Script Msg: /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant : Cannot create a select node for this type '/Script/ControlRig.ControlRigExecuteContext'.
+[2022.09.25-21.38.56:492][105]LogScript: Error: Script Msg: /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant : Cannot create a select node for this type '/Script/ControlRig.ControlRigExecuteContext'.
+[2022.09.25-21.38.59:684][292]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.02:012][431]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.03:724][530]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.06:835][715]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.11:959][ 16]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.11:959][ 16]LogScript: Error: Script Msg: Variable Node @@ is ill-formed (pin type doesn't match the variable type).
+Consider to recreate the node.
+[2022.09.25-21.39.15:422][221]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.15:422][221]LogScript: Error: Script Msg: Variable Node @@ is ill-formed (pin type doesn't match the variable type).
+Consider to recreate the node.
+[2022.09.25-21.39.18:498][405]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.39.18:499][405]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.18:504][405]LogClass: Warning: Type mismatch in Current of CR_Mannequin_FootPlant_C - Previous (StructProperty) Current(NameProperty) for package:  FObjectReader
+[2022.09.25-21.39.18:542][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.09.25-21.39.18:555][405]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.18:555][405]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.20:000][482]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.39.30:730][124]LogHttp: Warning: 000005F77FB80000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.39.30:730][124]LogHttp: Warning: 000005F77FB80000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.39.30:730][124]LogHttp: Warning: 000005F77FB80000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.39.30:730][124]LogHttp: Warning: 000005F77FB80000: libcurl info message cache 1 (Closing connection 23)
+[2022.09.25-21.39.30:730][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.40.30:751][725]LogHttp: Warning: 000005F784820500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.40.30:751][725]LogHttp: Warning: 000005F784820500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.40.30:751][725]LogHttp: Warning: 000005F784820500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.40.30:751][725]LogHttp: Warning: 000005F784820500: libcurl info message cache 1 (Closing connection 24)
+[2022.09.25-21.40.30:751][725]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.40.52:008][997]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.40.53:915][110]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.03:721][695]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.07:051][894]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.11:742][172]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.16:507][457]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.20:019][667]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.20:761][711]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.24:892][956]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.24:892][956]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.28:438][168]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.30:741][305]LogHttp: Warning: 000005F7673A1900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.41.30:741][305]LogHttp: Warning: 000005F7673A1900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.41.30:741][305]LogHttp: Warning: 000005F7673A1900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.41.30:741][305]LogHttp: Warning: 000005F7673A1900: libcurl info message cache 1 (Closing connection 25)
+[2022.09.25-21.41.30:741][305]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.41.32:018][380]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.37:208][691]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.40:996][915]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.47:040][275]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.47:040][275]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.50:510][483]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.53:597][666]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.41.53:598][666]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.12:083][770]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.20:113][248]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.20:114][248]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.27:417][681]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.27:418][681]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.30:737][880]LogHttp: Warning: 000005F761196E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.42.30:737][880]LogHttp: Warning: 000005F761196E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.42.30:737][880]LogHttp: Warning: 000005F761196E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.42.30:737][880]LogHttp: Warning: 000005F761196E00: libcurl info message cache 1 (Closing connection 26)
+[2022.09.25-21.42.30:738][880]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.42.30:858][886]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.33:608][ 50]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.42.33:609][ 50]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.33:650][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.09.25-21.42.33:665][ 50]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.33:665][ 50]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.54:330][274]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.56:582][409]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.42.59:956][610]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.01:243][687]LogEditorTransaction: Undo Delete selected nodes
+[2022.09.25-21.43.01:244][687]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.02:677][755]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.04:944][887]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.06:977][  8]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.09:769][173]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.09:770][173]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.11:407][271]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.13:630][401]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.20:188][792]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.20:188][792]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.25:517][109]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.30:740][423]LogHttp: Warning: 000005F767065A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.43.30:740][423]LogHttp: Warning: 000005F767065A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.43.30:740][423]LogHttp: Warning: 000005F767065A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.43.30:740][423]LogHttp: Warning: 000005F767065A00: libcurl info message cache 1 (Closing connection 27)
+[2022.09.25-21.43.30:740][423]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.43.32:628][535]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.35:859][728]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.37:278][813]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.38:659][896]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.40:234][990]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.50:991][632]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.53:123][758]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.43.55:424][895]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.44.25:725][709]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.44.30:746][ 10]LogHttp: Warning: 000005F7AB7CF500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.44.30:746][ 10]LogHttp: Warning: 000005F7AB7CF500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.44.30:746][ 10]LogHttp: Warning: 000005F7AB7CF500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.44.30:746][ 10]LogHttp: Warning: 000005F7AB7CF500: libcurl info message cache 1 (Closing connection 28)
+[2022.09.25-21.44.30:746][ 10]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.45.30:740][606]LogHttp: Warning: 000005F767C49100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.45.30:740][606]LogHttp: Warning: 000005F767C49100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.45.30:740][606]LogHttp: Warning: 000005F767C49100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.45.30:740][606]LogHttp: Warning: 000005F767C49100: libcurl info message cache 1 (Closing connection 29)
+[2022.09.25-21.45.30:740][606]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.45.57:784][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.09.25-21.45.57:789][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.027
+[2022.09.25-21.45.57:790][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant] ([2] browsable assets)...
+[2022.09.25-21.45.57:803][217]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.CR_Mannequin_FootPlant]
+[2022.09.25-21.45.57:804][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant]
+[2022.09.25-21.45.57:825][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant_Auto3
+[2022.09.25-21.45.57:826][217]LogSavePackage: Moving '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/CR_Mannequin_FootPlant_Auto365A025294C05F2F39B4DB89759A75B84.tmp' to '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Autosaves/Game/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant_Auto3.uasset'
+[2022.09.25-21.45.57:827][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CR_Mannequin_FootPlant_Take1] ([1] browsable assets)...
+[2022.09.25-21.45.57:827][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/CR_Mannequin_FootPlant_Take1]
+[2022.09.25-21.45.57:829][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CR_Mannequin_FootPlant_Take1_Auto3
+[2022.09.25-21.45.57:829][217]LogSavePackage: Moving '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/CR_Mannequin_FootPlant_Take1_AutA0AEB1504FC6F429E6AC0DA18584462F.tmp' to '../../../../../../Users/31640/Documents/Miyaman-Studio/AirsoftTag/AirsoftTag/Saved/Autosaves/Game/CR_Mannequin_FootPlant_Take1_Auto3.uasset'
+[2022.09.25-21.45.57:830][217]LogFileHelpers: Auto-saving content packages took 0.040
+[2022.09.25-21.46.30:745][189]LogHttp: Warning: 000005F7AEF75F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.46.30:745][189]LogHttp: Warning: 000005F7AEF75F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.46.30:745][189]LogHttp: Warning: 000005F7AEF75F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.46.30:745][189]LogHttp: Warning: 000005F7AEF75F00: libcurl info message cache 1 (Closing connection 30)
+[2022.09.25-21.46.30:745][189]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.46.58:019][819]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.46.58:062][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.09.25-21.47.09:747][514]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.47.09:794][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.25-21.47.18:582][ 32]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.47.18:629][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.09.25-21.47.30:755][758]LogHttp: Warning: 000005F77D464600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.47.30:755][758]LogHttp: Warning: 000005F77D464600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.47.30:755][758]LogHttp: Warning: 000005F77D464600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.47.30:755][758]LogHttp: Warning: 000005F77D464600: libcurl info message cache 1 (Closing connection 31)
+[2022.09.25-21.47.30:755][758]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.47.39:000][252]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.47.39:044][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.09.25-21.47.40:945][364]BlueprintLog: New page: Compile CR_Mannequin_FootPlant
+[2022.09.25-21.47.40:989][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.09.25-21.48.30:760][328]LogHttp: Warning: 000005F7AE19B400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-21.48.30:760][328]LogHttp: Warning: 000005F7AE19B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.25-21.48.30:760][328]LogHttp: Warning: 000005F7AE19B400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.25-21.48.30:760][328]LogHttp: Warning: 000005F7AE19B400: libcurl info message cache 1 (Closing connection 32)
+[2022.09.25-21.48.30:760][328]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0040E92D-4F22-E896-3879-25942AEB67B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0e3691484e0dc51a8567cab10331001e%7C3d84ef5e85cb4cf3b702a0435c51b0bf%7C1c804d20-f06a-4cd0-ba81-851ab1a86bb7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-21.48.53:906][714]LogScript: Error: Script Msg: Node @@ has an unconnected Execute pin.
+The function might cause unexpected behavior.
+[2022.09.25-21.48.53:907][714]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.25-21.48.53:908][714]LogWindows: Windows GetLastError: The operation completed successfully. (0)
